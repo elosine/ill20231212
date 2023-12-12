@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.2"
+   width="107.46329mm"
+   height="19.569527mm"
+   viewBox="0 0 61.152538 11.136137"
+   id="svg6963">
+  <metadata
+     id="metadata6969">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6967" />
+  <style
+     text="style/css"
+     id="style6469"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <!-- Page: 1/1 -->
+  <g
+     transform="translate(-127.98037)"
+     id="g10433">
+    <rect
+       id="rect6575"
+       fill="currentColor"
+       ry="0.014339536"
+       height="2.7114272"
+       width="0.056999657"
+       y="3.2411115"
+       x="139.07597"
+       style="stroke-width:0.358488" />
+    <polygon
+       id="polygon6577"
+       points="0.04,-0.2 33.719,-0.2 33.719,0.2 0.04,0.2 "
+       stroke="currentColor"
+       fill="currentColor"
+       stroke-width="0.08"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.35848842,0,0,0.35848842,158.64944,2.5241349)" />
+    <a
+       id="a6587"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <line
+         id="line6579"
+         y2="-3.1289999"
+         x2="18.1446"
+         y1="-3.829"
+         x1="18.1446"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(507.5511,4.9247)" />
+      <line
+         id="line6581"
+         y2="0.74129999"
+         x2="-0.1957"
+         y1="0.041299999"
+         x1="-0.1957"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(507.5511,4.9247)" />
+      <line
+         id="line6583"
+         y2="-2.4124999"
+         x2="11.4323"
+         y1="-3.829"
+         x1="18.1446"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(507.5511,4.9247)" />
+      <line
+         id="line6585"
+         y2="-1.4165"
+         x2="6.7122002"
+         y1="0.041299999"
+         x1="-0.1957"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(507.5511,4.9247)" />
+    </a>
+    <a
+       id="a6593"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <text
+         id="text6591"
+         fill="currentColor"
+         text-anchor="start"
+         font-size="2.8814px"
+         font-style="italic"
+         font-family="serif"
+         transform="translate(514.6135,3.9698)"><tspan
+           id="tspan6589">7:1</tspan></text>
+    </a>
+    <polygon
+       id="polygon6595"
+       points="0.04,-0.2 15.869,-1.7 15.869,-1.3 0.04,0.2 "
+       stroke="currentColor"
+       fill="currentColor"
+       stroke-width="0.08"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.35848842,0,0,0.35848842,173.70596,3.3562224)" />
+    <polygon
+       id="polygon6597"
+       points="0.04,-0.2 15.869,-1.7 15.869,-1.3 0.04,0.2 "
+       stroke="currentColor"
+       fill="currentColor"
+       stroke-width="0.08"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.35848842,0,0,0.35848842,173.70596,3.6506131)" />
+    <polygon
+       id="polygon6599"
+       points="0.04,-0.2 18.119,-4.0211 18.119,-3.6211 0.04,0.2 "
+       stroke="currentColor"
+       fill="currentColor"
+       stroke-width="0.08"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.35848842,0,0,0.35848842,181.23422,2.754392)" />
+    <polygon
+       id="polygon6601"
+       points="0.04,-0.2 18.119,-4.0211 18.119,-3.6211 0.04,0.2 "
+       stroke="currentColor"
+       fill="currentColor"
+       stroke-width="0.08"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.35848842,0,0,0.35848842,181.23422,3.0487468)" />
+    <polygon
+       id="polygon6603"
+       points="0.04,-0.2 18.119,-4.0211 18.119,-3.6211 0.04,0.2 "
+       stroke="currentColor"
+       fill="currentColor"
+       stroke-width="0.08"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.35848842,0,0,0.35848842,181.23422,3.3431017)" />
+    <rect
+       id="rect6605"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.7868927"
+       width="0.056999657"
+       y="3.2411115"
+       x="142.08728"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6609"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:89:29:30"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6607"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,396.8,20.86)" />
+    </a>
+    <a
+       id="a6615"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:93:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <text
+         id="text6613"
+         fill="currentColor"
+         text-anchor="start"
+         font-size="2.8814px"
+         font-style="italic"
+         font-family="serif"
+         transform="translate(462.1135,5.7378)"><tspan
+           id="tspan6611">5:2</tspan></text>
+    </a>
+    <a
+       id="a6619"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:89:26:27"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6617"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,388.4,17.86)" />
+    </a>
+    <rect
+       id="rect6621"
+       fill="currentColor"
+       ry="0.014339536"
+       height="1.8152061"
+       width="0.056999657"
+       y="3.2411115"
+       x="136.06467"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6625"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:89:21:22"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6623"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,380,15.36)" />
+    </a>
+    <path
+       id="path6627"
+       fill="currentColor"
+       d="m 133.61225,4.2667829 c 0,0.468472 0.48977,0.7949827 0.48977,1.2634547 0,0.1679874 -0.0379,0.3359748 -0.0994,0.4921321 -0.009,0.016562 -0.0237,0.026026 -0.0402,0.026026 -0.0284,0 -0.0568,-0.02366 -0.0497,-0.059151 0.0615,-0.1466933 0.097,-0.3004846 0.097,-0.4590079 0,-0.2460661 -0.22714,-0.4944982 -0.39749,-0.6719497 h -0.0331 v -0.591505 z"
+       style="stroke-width:0.00236602" />
+    <rect
+       id="rect6689"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.1340492"
+       width="0.056999657"
+       y="4.2524433"
+       x="133.55527"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6707"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:84:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <line
+         id="line6699"
+         y2="2.6688001"
+         x2="18.147699"
+         y1="1.9687999"
+         x1="18.147699"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(360.5511,8.0194)" />
+      <line
+         id="line6701"
+         y2="0.67839998"
+         x2="-0.1988"
+         y1="-0.021600001"
+         x1="-0.1988"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(360.5511,8.0194)" />
+      <line
+         id="line6703"
+         y2="1.1157"
+         x2="10.2838"
+         y1="1.9687999"
+         x1="18.147699"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(360.5511,8.0194)" />
+      <line
+         id="line6705"
+         y2="0.85320002"
+         x2="7.8639002"
+         y1="-0.021600001"
+         x1="-0.1988"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(360.5511,8.0194)" />
+    </a>
+    <a
+       id="a6713"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:84:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <text
+         id="text6711"
+         fill="currentColor"
+         text-anchor="start"
+         font-size="2.8814px"
+         font-style="italic"
+         font-family="serif"
+         transform="translate(368.8086,9.9491)"><tspan
+           id="tspan6709">3</tspan></text>
+    </a>
+    <a
+       id="a6723"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:89:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <line
+         id="line6715"
+         y2="0.69999999"
+         x2="39.148899"
+         y1="0"
+         x1="39.148899"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(381.5511,6.7989)" />
+      <line
+         id="line6717"
+         y2="0.69999999"
+         x2="-0.2"
+         y1="0"
+         x1="-0.2"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(381.5511,6.7989)" />
+      <line
+         id="line6719"
+         y2="0"
+         x2="21.9865"
+         y1="0"
+         x1="39.148899"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(381.5511,6.7989)" />
+      <line
+         id="line6721"
+         y2="0"
+         x2="17.162399"
+         y1="0"
+         x1="-0.2"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(381.5511,6.7989)" />
+    </a>
+    <a
+       id="a6729"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:89:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <text
+         id="text6727"
+         fill="currentColor"
+         text-anchor="start"
+         font-size="2.8814px"
+         font-style="italic"
+         font-family="serif"
+         transform="translate(399.1135,7.7378)"><tspan
+           id="tspan6725">5:2</tspan></text>
+    </a>
+    <a
+       id="a6739"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:91:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <line
+         id="line6731"
+         y2="2.6688001"
+         x2="18.147699"
+         y1="1.9687999"
+         x1="18.147699"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(423.5511,6.5194)" />
+      <line
+         id="line6733"
+         y2="0.67839998"
+         x2="-0.1988"
+         y1="-0.021600001"
+         x1="-0.1988"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(423.5511,6.5194)" />
+      <line
+         id="line6735"
+         y2="1.1157"
+         x2="10.2838"
+         y1="1.9687999"
+         x1="18.147699"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(423.5511,6.5194)" />
+      <line
+         id="line6737"
+         y2="0.85320002"
+         x2="7.8639002"
+         y1="-0.021600001"
+         x1="-0.1988"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(423.5511,6.5194)" />
+    </a>
+    <a
+       id="a6745"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:91:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <text
+         id="text6743"
+         fill="currentColor"
+         text-anchor="start"
+         font-size="2.8814px"
+         font-style="italic"
+         font-family="serif"
+         transform="translate(431.8086,8.4491)"><tspan
+           id="tspan6741">3</tspan></text>
+    </a>
+    <polygon
+       id="polygon6747"
+       points="0.04,-0.2 33.719,-0.2 33.719,0.2 0.04,0.2 "
+       stroke="currentColor"
+       fill="currentColor"
+       stroke-width="0.08"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.35848842,0,0,0.35848842,136.06467,3.2411117)" />
+    <a
+       id="a6757"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:93:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <line
+         id="line6749"
+         y2="0.69999999"
+         x2="39.148899"
+         y1="0"
+         x1="39.148899"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(444.5511,4.7989)" />
+      <line
+         id="line6751"
+         y2="0.69999999"
+         x2="-0.2"
+         y1="0"
+         x1="-0.2"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(444.5511,4.7989)" />
+      <line
+         id="line6753"
+         y2="0"
+         x2="21.9865"
+         y1="0"
+         x1="39.148899"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(444.5511,4.7989)" />
+      <line
+         id="line6755"
+         y2="0"
+         x2="17.162399"
+         y1="0"
+         x1="-0.2"
+         stroke="currentColor"
+         stroke-width="0.1957"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         transform="translate(444.5511,4.7989)" />
+    </a>
+    <a
+       id="a6789"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:84:25:26"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6787"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,373,21.86)" />
+    </a>
+    <rect
+       id="rect6791"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.1340492"
+       width="0.056999657"
+       y="3.5354667"
+       x="128.53642"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6795"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:84:21:22"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6793"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,359,19.86)" />
+    </a>
+    <rect
+       id="rect6815"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.7868927"
+       width="0.056999657"
+       y="2.5241349"
+       x="170.69466"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6819"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:93:39:40"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6817"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,476.6,18.86)" />
+    </a>
+    <rect
+       id="rect6821"
+       fill="currentColor"
+       ry="0.014339536"
+       height="1.8152061"
+       width="0.056999657"
+       y="2.5241349"
+       x="167.68335"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6825"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:93:34:35"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6823"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,468.2,13.36)" />
+    </a>
+    <rect
+       id="rect6827"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.7868927"
+       width="0.056999657"
+       y="2.5241349"
+       x="164.67204"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6831"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:93:31:32"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6829"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,459.8,18.86)" />
+    </a>
+    <rect
+       id="rect6833"
+       fill="currentColor"
+       ry="0.014339536"
+       height="2.7114272"
+       width="0.056999657"
+       y="2.5241349"
+       x="161.66075"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6837"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:93:27:28"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6835"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,451.4,15.86)" />
+    </a>
+    <rect
+       id="rect6839"
+       fill="currentColor"
+       ry="0.014339536"
+       height="2.4143836"
+       width="0.056999657"
+       y="2.8211782"
+       x="179.35216"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6843"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:96:19:20"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6841"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,500.75,15.86)" />
+    </a>
+    <rect
+       id="rect6845"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.8501296"
+       width="0.056999657"
+       y="2.99863"
+       x="177.47009"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6849"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:96:16:17"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6847"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,495.5,20.36)" />
+    </a>
+    <rect
+       id="rect6851"
+       fill="currentColor"
+       ry="0.014339536"
+       height="2.9557011"
+       width="0.056999657"
+       y="3.1760821"
+       x="175.58801"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6855"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:96:13:14"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6853"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,490.25,18.36)" />
+    </a>
+    <rect
+       id="rect6857"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.1367378"
+       width="0.056999657"
+       y="3.3535335"
+       x="173.70596"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6861"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:96:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6859"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,485,19.36)" />
+    </a>
+    <rect
+       id="rect6863"
+       fill="currentColor"
+       ry="0.014339536"
+       height="1.8152061"
+       width="0.056999657"
+       y="3.2411115"
+       x="145.09859"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6867"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:89:32:33"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6865"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,405.2,15.36)" />
+    </a>
+    <rect
+       id="rect6877"
+       fill="currentColor"
+       ry="0.014339536"
+       height="1.9944503"
+       width="0.056999657"
+       y="2.5241349"
+       x="158.64944"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6881"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:93:21:22"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6879"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,443,13.86)" />
+    </a>
+    <path
+       id="path6883"
+       fill="currentColor"
+       d="m 156.19703,3.7290503 c 0,0.468472 0.48977,0.7949827 0.48977,1.2634547 0,0.1679874 -0.0379,0.3359748 -0.0994,0.4921321 -0.009,0.016562 -0.0237,0.026026 -0.0402,0.026026 -0.0284,0 -0.0568,-0.02366 -0.0497,-0.059151 0.0615,-0.1466933 0.097,-0.3004846 0.097,-0.4590079 0,-0.2460661 -0.22714,-0.4944982 -0.39749,-0.6719497 h -0.0331 v -0.591505 z"
+       style="stroke-width:0.00236602" />
+    <rect
+       id="rect6885"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.1340492"
+       width="0.056999657"
+       y="3.7147107"
+       x="156.14003"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6889"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:91:25:26"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6887"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,436,20.36)" />
+    </a>
+    <rect
+       id="rect6891"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.1340492"
+       width="0.056999657"
+       y="2.9977338"
+       x="151.12119"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6895"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:91:21:22"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6893"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,422,18.36)" />
+    </a>
+    <rect
+       id="rect6897"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.7868927"
+       width="0.056999657"
+       y="3.2411115"
+       x="148.10988"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6901"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:89:36:37"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6899"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,413.6,20.86)" />
+    </a>
+    <rect
+       id="rect6903"
+       fill="currentColor"
+       ry="0.014339536"
+       height="2.7225044"
+       width="0.056999657"
+       y="1.6168364"
+       x="186.61154"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6907"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:42:43"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6905"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,521,13.36)" />
+    </a>
+    <rect
+       id="rect6909"
+       fill="currentColor"
+       ry="0.014339536"
+       height="2.8546791"
+       width="0.056999657"
+       y="1.8431501"
+       x="185.53609"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6913"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:38:39"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6911"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,518,14.36)" />
+    </a>
+    <a
+       id="a6917"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:101:8:9"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6915"
+         fill="currentColor"
+         d="m 215,114 c -50,0 -71,-42 -71,-88 0,-79 60,-140 139,-140 50,0 70,42 70,88 0,79 -59,140 -138,140 z M 497,0 c 0,-43 -35,-74 -73,-95 -54,-29 -114,-40 -175,-40 -61,0 -122,11 -176,40 -38,21 -73,52 -73,95 0,43 35,74 73,95 54,29 115,40 176,40 61,0 121,-11 175,-40 38,-21 73,-52 73,-95 z"
+         transform="matrix(0.0052,0,0,-0.0052,527,31.36)" />
+    </a>
+    <rect
+       id="rect6923"
+       fill="currentColor"
+       ry="0.014339536"
+       height="2.2318053"
+       width="0.056999657"
+       y="1.3905227"
+       x="187.68701"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6927"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:47:48"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6925"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,524,11.36)" />
+    </a>
+    <a
+       id="a6933"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:26:27"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6931"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,509,17.36)" />
+    </a>
+    <a
+       id="a6937"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:30:31"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6935"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,512,16.36)" />
+    </a>
+    <rect
+       id="rect6941"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.2512031"
+       width="0.056999657"
+       y="2.5220559"
+       x="182.30968"
+       style="stroke-width:0.358488" />
+    <rect
+       id="rect6943"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.3833778"
+       width="0.056999657"
+       y="2.7483695"
+       x="181.23421"
+       style="stroke-width:0.358488" />
+    <a
+       id="a6947"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:21:22"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6945"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,506,18.36)" />
+    </a>
+    <a
+       id="a6951"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/interactiveLoopingLine_20231129/public/pieces/interactiveLoopingLine20231129/notation/ill20231129.ly:99:34:35"
+       style="color:inherit"
+       transform="matrix(0.35848842,0,0,0.35848842,-0.71697684,-0.35771767)">
+      <path
+         id="path6949"
+         fill="currentColor"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         transform="matrix(0.0052,0,0,-0.0052,515,15.36)" />
+    </a>
+    <rect
+       id="rect6955"
+       fill="currentColor"
+       ry="0.014339536"
+       height="2.9868541"
+       width="0.056999657"
+       y="2.069464"
+       x="184.46062"
+       style="stroke-width:0.358488" />
+    <rect
+       id="rect6961"
+       fill="currentColor"
+       ry="0.014339536"
+       height="3.1190283"
+       width="0.056999657"
+       y="2.2957776"
+       x="183.38515"
+       style="stroke-width:0.358488" />
+  </g>
+</svg>
