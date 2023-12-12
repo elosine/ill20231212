@@ -29,7 +29,7 @@ const PX_PER_MS = PX_PER_SEC / 1000;
 const MS_PER_PX = 1000 / PX_PER_SEC;
 const PX_PER_FRAME = PX_PER_SEC / FRAMERATE;
 const MS_PER_FRAME = 1000.0 / FRAMERATE;
-
+const BEAT_DUR_FRAMES = Math.round(PX_PER_BEAT / PX_PER_FRAME); //Width of the staff in frames
 //##endef Timing
 
 //#ef Animation Engine Variables
@@ -74,13 +74,44 @@ const STAFF_H = 700;
 const STAFF_W = NOTATIONCANVAS_W;
 const LEFT_MARGIN = 3;
 const VERT_DISTANCE_BETWEEN_LINES = 115;
+const CURSOR_H = 80;
 let staves = [];
 let beatLines = [];
+let beatLines_XY = [];
 let tempoCursors = [];
 let cursorBBs = [];
+let oneBounceBbYpos = [];
 //#endef Staff Variables
 
 //#ef Staff Timing
+
+//##ef Calculate Ascent and Descent for 1 BB
+let ascentPct = 0.35; //looks best when descent is longer than ascent
+let descentPct = 1 - ascentPct;
+let numFramesUp = Math.floor(ascentPct * BEAT_DUR_FRAMES);
+let numFramesDown = Math.ceil(descentPct * BEAT_DUR_FRAMES);
+let ascentFactor = 0.2;
+let descentFactor = 2.8;
+let ascentPlot = plot(function(x) { //see Function library; exponential curve
+  return Math.pow(x, 1.9);
+}, [0, 1, 1, 0], numFramesUp, CURSOR_H, 0); //will create an object with numFramesUp length (x) .y is what you want
+
+ascentPlot.forEach((ascentPos) => { //curve for ascent
+  let tBbY = CURSOR_H - ascentPos.y; //calculate the absolute y position of bb
+  oneBounceBbYpos.push(Math.round(tBbY)); //populate bbYpos_thisTempo array with bby position for every frame
+}); // ascentPlot.forEach((ascentPos) => END
+
+let descentPlot = plot(function(x) { //curve for descent
+  return Math.pow(x, descentFactor);
+}, [0, 1, 1, 0], numFramesDown, CURSOR_H, 0);
+
+descentPlot.forEach((descentPos) => {
+  let tBbY = descentPos.y;
+  oneBounceBbYpos.push(Math.round(tBbY));
+}); // descentPlot.forEach((descentPos) => END
+//##endef Calculate BBs
+
+console.log(oneBounceBbYpos);
 //find out how many frames in a timeline
 const STAFF_WIDTH_IN_FRAMES = Math.round(STAFF_W / PX_PER_FRAME); //Width of the staff in frames
 let timelineFRAMES = [];
@@ -102,85 +133,18 @@ for (var i = 0; i < (STAFF_WIDTH_IN_FRAMES * NUMLINES); i++) {
   let tMS = Math.round(i * MS_PER_FRAME);
   tFrameDict['ms'] = tMS;
   let tY = tJ * VERT_DISTANCE_BETWEEN_LINES;
-  tFrameDict['y'] = tY;
-  timelineFRAMES.push(tFrameDict);
+  tFrameDict['y'] = tY; //which line cursor is on
   if (i != 0 && i % STAFF_WIDTH_IN_FRAMES == 0) tJ = tJ + 1; //increment tJ for each line
+  //BBs
+  //Find which frames beats are on
+  // use oneBounceBbYpos to calculate all bb positions and add to timeline frames
+
+
+  timelineFRAMES.push(tFrameDict);
 }
 console.log(timelineFRAMES);
 //#endef Staff Timing
 
-//##ef Calculate BBs
-
-
-    //##ef Main Cycle
-    let bbYpos_thisTempo = [];
-    let bbLeadIn = [];
-
-    goFrames_thisTempo.forEach((goFrm, goFrmIx) => { //goFrames_thisTempo contains the frame number of each go frame
-
-      if (goFrmIx > 0) { //start on second goFrmIx so you can compare to previous index
-
-        let previousGoFrame = goFrames_thisTempo[goFrmIx - 1];
-        let thisBeatDurInFrames = goFrm - previousGoFrame; //because of necessary rounding beats last various amounts of frames usually with in 1 frame difference
-        let ascentPct = 0.35; //looks best when descent is longer than ascent
-        let descentPct = 1 - ascentPct;
-        let numFramesUp = Math.floor(ascentPct * thisBeatDurInFrames);
-        let numFramesDown = Math.ceil(descentPct * thisBeatDurInFrames);
-
-        let ascentFactor = 0.2;
-        let descentFactor = 2.8;
-
-        let ascentPlot = plot(function(x) { //see Function library; exponential curve
-          return Math.pow(x, ascentFactor);
-        }, [0, 1, 0, 1], numFramesUp, BB_TRAVEL_DIST); //will create an object with numFramesUp length (x) .y is what you want
-
-        ascentPlot.forEach((ascentPos) => {
-
-          let tBbY = BBCIRC_TOP_CY + ascentPos.y; //calculate the absolute y position of bb
-          bbYpos_thisTempo.push(Math.round(tBbY)); //populate bbYpos_thisTempo array with bby position for every frame
-
-          //save first bounce for lead-in
-          if (goFrmIx == 1) {
-            bbLeadIn.push(tBbY);
-          }
-
-        }); // ascentPlot.forEach((ascentPos) => END
-
-        let descentPlot = plot(function(x) {
-          return Math.pow(x, descentFactor);
-        }, [0, 1, 0, 1], numFramesDown, BB_TRAVEL_DIST);
-
-        descentPlot.forEach((descentPos) => {
-
-          let tBbY = BBCIRC_BOTTOM_CY - descentPos.y;
-          bbYpos_thisTempo.push(Math.round(tBbY));
-
-          //save first bounce for lead-in
-          if (goFrmIx == 1) {
-            bbLeadIn.push(tBbY);
-          }
-
-        }); // descentPlot.forEach((descentPos) => END
-
-      } // if(goFrmIx>0) END
-
-    }); // goFrames_thisTempo.forEach((goFrm, goFrmIx) => END
-
-    scoreDataObject.bbYpos_perTempo.push(bbYpos_thisTempo);
-    //##endef Main Cycle
-
-    //##ef Lead In
-    let leadIn_bbYpos_thisTempo = [];
-    //make 1 ascent just before first beat
-    bbLeadIn.forEach((bbYpos) => { //leadInAscent is already reversed so first index is lowest bbYpos
-      leadIn_bbYpos_thisTempo.push(bbYpos);
-    });
-
-    scoreDataObject.leadIn_bbYpos_perTempo.push(leadIn_bbYpos_thisTempo);
-    //##endef Lead In
-
-
-    //##endef Calculate BBs
 
 
 //#endef GLOBAL VARIABLES
@@ -294,6 +258,11 @@ function drawNotation() {
         strokeW: 0.5
       });
       beatLines.push(tBl);
+      let tBeatLinesXYdict = {};
+      tBeatLinesXYdict['x'] = tx2;
+      tBeatLinesXYdict['y'] = y2 + 55;
+      beatLines_XY.push(tBeatLinesXYdict);
+
     }
 
     //End of line mask
@@ -379,13 +348,14 @@ function updateScrollingCsrs() {
     tempoCursors[0].setAttributeNS(null, 'x1', currScrollingCsrX);
     tempoCursors[0].setAttributeNS(null, 'x2', currScrollingCsrX);
     tempoCursors[0].setAttributeNS(null, 'y1', currScrollingCsrY);
-    tempoCursors[0].setAttributeNS(null, 'y2', currScrollingCsrY + 80);
+    tempoCursors[0].setAttributeNS(null, 'y2', currScrollingCsrY + CURSOR_H);
     //Scrolling BB
 
   }
 } // function updateScrollingCsrs() END
 //###endef updateScrollingCsrs
 
+/*
 //###ef updateScrollingBBs
 function updateScrollingBBs() {
   if (FRAMECOUNT > 0) { //No lead in motion for scrolling cursors
@@ -409,7 +379,7 @@ function updateScrollingBBs() {
   } // if (FRAMECOUNT > LEAD_IN_FRAMES) END
 } // function updateScrollingCsrs() END
 //###endef updateScrollingBBs
-
+*/
 
 //#endef WIPE/UPDATE/DRAW
 
