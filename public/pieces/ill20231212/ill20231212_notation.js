@@ -1,10 +1,7 @@
 //#ef NOTES
 /*
-Upload coad from pc
-finish line and import to javascript
-measure beats
-put in beat lines
-1200x800
+Animated Cursor
+Add Bouncing Ball to Cursor
 */
 //#endef NOTES
 
@@ -158,99 +155,136 @@ function makeStaves() {
 
 //#ef Draw Notation SVG
 function drawNotation() {
-  let tSvgImage = document.createElementNS(SVG_NS, "image");
-  tSvgImage.setAttributeNS(XLINK_NS, 'xlink:href', '/pieces/interactiveLoopingLine20231129/notationSVGs/ill20231129.svg');
-  tSvgImage.setAttributeNS(null, "y", 0);
-  tSvgImage.setAttributeNS(null, "x", 0);
-  tSvgImage.setAttributeNS(null, "visibility", 'visible');
-  tSvgImage.setAttributeNS(null, "display", 'yes');
-  staves[0].svg.appendChild(tSvgImage);
 
-  let tSvgImage2 = document.createElementNS(SVG_NS, "image");
-  tSvgImage2.setAttributeNS(XLINK_NS, 'xlink:href', '/pieces/interactiveLoopingLine20231129/notationSVGs/ill20231129.svg');
-  tSvgImage2.setAttributeNS(null, "y", 130);
-  tSvgImage2.setAttributeNS(null, "x", -943);
-  tSvgImage2.setAttributeNS(null, "visibility", 'visible');
-  tSvgImage2.setAttributeNS(null, "display", 'yes');
-  staves[0].svg.appendChild(tSvgImage2);
+  for (var i = 0; i < 4; i++) {
 
-  let tSvgImage3 = document.createElementNS(SVG_NS, "image");
-  tSvgImage3.setAttributeNS(XLINK_NS, 'xlink:href', '/pieces/interactiveLoopingLine20231129/notationSVGs/ill20231129.svg');
-  tSvgImage3.setAttributeNS(null, "y", 280);
-  tSvgImage3.setAttributeNS(null, "x", -1886);
-  tSvgImage3.setAttributeNS(null, "visibility", 'visible');
-  tSvgImage3.setAttributeNS(null, "display", 'yes');
-  staves[0].svg.appendChild(tSvgImage3);
+    let vertDist = 115;
+    let ty = -18 + (i*vertDist);
+    let tx1 = -2 + (i* -944);
+    let tSvgImage = document.createElementNS(SVG_NS, "image");
+    tSvgImage.setAttributeNS(XLINK_NS, 'xlink:href', '/pieces/ill20231212/notationSVGs/ILL20231212_SVG.svg');
+    tSvgImage.setAttributeNS(null, "y",  ty);
+    tSvgImage.setAttributeNS(null, "x", tx1);
+    tSvgImage.setAttributeNS(null, "visibility", 'visible');
+    tSvgImage.setAttributeNS(null, "display", 'yes');
+    staves[0].svg.appendChild(tSvgImage);
+
+    //Beat Lines
+    for (var j = 0; j < 9; j++) {
+      let tx2 = j * 105;
+      let y2 = (i*vertDist) +15;
+      let tBl = mkSvgLine({
+        svgContainer: staves[0].svg,
+        x1: tx2,
+        y1: y2,
+        x2: tx2,
+        y2: y2 + 55,
+        stroke: 'magenta',
+        strokeW: 0.5
+      });
+      beatLines.push(tBl);
+    }
+
+    //End of line mask
+    let tLineMask = mkSvgRect({
+      svgContainer: staves[0].svg,
+      x: 944,
+      y: i*105,
+      w: 70,
+      h: 70,
+      fill: 'white',
+      stroke: 'none',
+      strokeW: 0,
+      roundR: 0
+    });
+
+  }
+
+  // let tSvgImage2 = document.createElementNS(SVG_NS, "image");
+  // tSvgImage2.setAttributeNS(XLINK_NS, 'xlink:href', '/pieces/ill20231212/notationSVGs/ILL20231212_SVG.svg');
+  // tSvgImage2.setAttributeNS(null, "y", 130);
+  // tSvgImage2.setAttributeNS(null, "x", -943);
+  // tSvgImage2.setAttributeNS(null, "visibility", 'visible');
+  // tSvgImage2.setAttributeNS(null, "display", 'yes');
+  // staves[0].svg.appendChild(tSvgImage2);
+  //
+  // let tSvgImage3 = document.createElementNS(SVG_NS, "image");
+  // tSvgImage3.setAttributeNS(XLINK_NS, 'xlink:href', '/pieces/ill20231212/notationSVGs/ILL20231212_SVG.svg');
+  // tSvgImage3.setAttributeNS(null, "y", 280);
+  // tSvgImage3.setAttributeNS(null, "x", -1886);
+  // tSvgImage3.setAttributeNS(null, "visibility", 'visible');
+  // tSvgImage3.setAttributeNS(null, "display", 'yes');
+  // staves[0].svg.appendChild(tSvgImage3);
 
 
   //mask
-  let line1Mask = mkSvgRect({
-    svgContainer: staves[0].svg,
-    x: 880,
-    y: 0,
-    w: 75,
-    h: 75,
-    fill: 'white',
-    stroke: 'none',
-    strokeW: 0,
-    roundR: 0
-  });
-
-  let line2Mask = mkSvgRect({
-    svgContainer: staves[0].svg,
-    x: 945,
-    y: 160,
-    w: 75,
-    h: 75,
-    fill: 'white',
-    stroke: 'none',
-    strokeW: 0,
-    roundR: 0
-  });
+  // let line1Mask = mkSvgRect({
+  //   svgContainer: staves[0].svg,
+  //   x: 880,
+  //   y: 0,
+  //   w: 75,
+  //   h: 75,
+  //   fill: 'white',
+  //   stroke: 'none',
+  //   strokeW: 0,
+  //   roundR: 0
+  // });
+  //
+  // let line2Mask = mkSvgRect({
+  //   svgContainer: staves[0].svg,
+  //   x: 945,
+  //   y: 160,
+  //   w: 75,
+  //   h: 75,
+  //   fill: 'white',
+  //   stroke: 'none',
+  //   strokeW: 0,
+  //   roundR: 0
+  // });
 
   //Beat lines 1
-  for (var i = 0; i < 9; i++) {
-
-    // let tx = i<20 ? 4+(i*34) : 7+(i*34);
-    let tx = LEFT_MARGIN + (i * 105)
-
-
-    let tBl = mkSvgLine({
-      svgContainer: staves[0].svg,
-      x1: tx,
-      y1: 0,
-      x2: tx,
-      y2: 130,
-      stroke: 'magenta',
-      strokeW: 0.5
-    });
-    beatLines.push(tBl);
-
-
-    let tBl2 = mkSvgLine({
-      svgContainer: staves[0].svg,
-      x1: tx,
-      y1: 150,
-      x2: tx,
-      y2: 255,
-      stroke: 'magenta',
-      strokeW: 0.5
-    });
-    beatLines.push(tBl);
-
-
-    let tBl3 = mkSvgLine({
-      svgContainer: staves[0].svg,
-      x1: tx,
-      y1: 285,
-      x2: tx,
-      y2: 450,
-      stroke: 'magenta',
-      strokeW: 0.5
-    });
-    beatLines.push(tBl);
-
-  }
+  // for (var i = 0; i < 9; i++) {
+  //
+  //   // let tx = i<20 ? 4+(i*34) : 7+(i*34);
+  //   let tx = LEFT_MARGIN + (i * 105)
+  //
+  //
+  //   let tBl = mkSvgLine({
+  //     svgContainer: staves[0].svg,
+  //     x1: tx,
+  //     y1: 0,
+  //     x2: tx,
+  //     y2: 130,
+  //     stroke: 'magenta',
+  //     strokeW: 0.5
+  //   });
+  //   beatLines.push(tBl);
+  //
+  //
+  //   let tBl2 = mkSvgLine({
+  //     svgContainer: staves[0].svg,
+  //     x1: tx,
+  //     y1: 150,
+  //     x2: tx,
+  //     y2: 255,
+  //     stroke: 'magenta',
+  //     strokeW: 0.5
+  //   });
+  //   beatLines.push(tBl);
+  //
+  //
+  //   let tBl3 = mkSvgLine({
+  //     svgContainer: staves[0].svg,
+  //     x1: tx,
+  //     y1: 285,
+  //     x2: tx,
+  //     y2: 450,
+  //     stroke: 'magenta',
+  //     strokeW: 0.5
+  //   });
+  //   beatLines.push(tBl);
+  //
+  // }
 
 }
 //#endef Draw Notation SVG

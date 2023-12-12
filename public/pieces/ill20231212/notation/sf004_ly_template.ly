@@ -1,8 +1,8 @@
- \version "2.20.0"
+\version "2.20.0"
 
 \paper{
-  paper-width = 1000
-  paper-height = 200
+  paper-width = 130
+  paper-height = 100
 
   top-margin = 0
   bottom-margin = 0
@@ -11,9 +11,9 @@
   
   system-system-spacing =
   #'((basic-distance . 15)  %this controls space between lines default = 12
-                            (minimum-distance . 8)
-                            (padding . 1)
-                            (stretchability . 60)) 
+      (minimum-distance . 8)
+      (padding . 1)
+      (stretchability . 60)) 
 
 }
 
@@ -39,7 +39,7 @@
       }
 
       {
-        \time 29/4
+        \time 8/4
         \override TupletBracket.bracket-visibility = ##t
         \override TupletNumber.visibility = ##f
         %\once \override TupletNumber #'text = "7:4"
@@ -48,39 +48,21 @@
         \override NoteHead.font-size = #-2
         \override DynamicText.font-size = #-2
         
-        % \override Stem.details.beamed-lengths = #'(7)
+       % \override Stem.details.beamed-lengths = #'(7)
         %\override Stem.details.lengths = #'(7)
         
         
-        \override Stem.details.beamed-lengths = #'(9)
-        \override Stem.details.lengths = #'(9)
+        \override Stem.details.beamed-lengths = #'(5.5)
+        \override Stem.details.lengths = #'(5.5)
+        \override Stem.details.lengths = #'(5.5)
         
         % \override NoteColumn.accent-skip = ##t
         
         \override Accidental.font-size = -4 
         \stopStaff
-        
-        
-        
-        
-        
-        [f''16 e'8.~] e'4
-        \tuplet 5/4 {b c' a' g'' a''~} a''8 
-        c''2 c2. r8
-        b''8 d'8  f'''16 e'' e' f
-        \tuplet 5/4 {c' c' c' c' c'~} c'16 c'''8.  b,1
-        r2
-        \tuplet 3/4 {e'4 a8}
-        
-        \once \override TupletNumber.text =
-           #(tuplet-number::non-default-tuplet-fraction-text 5 2)
-        \tuplet 5/4 {g''8 b' c' g'' c'}
-        
-        
-        
-        
-        
-        
+        r4    e'4-^\sf    \tuplet 3/2 {e'8-^\sf e' e'}   e'16 e'e'e'   r8. [e'16]   r8 [e'8]   r8 [e'16 e']     e'16 [e' r8]
+        r4    e'4    \tuplet 3/2 {e'8 e' e'}   e'16 e'e'e'   r8. [e'16]   r8 [e'8]   r8 [e'16 e']     e'16 [e' r8]    
+        e'4 e'e'e'e'e'e'e'
         
         % Notes Only, No Staff
         %     \stopStaff
@@ -216,7 +198,7 @@
       \context {
         \Score
         %proportionalNotationDuration = #(ly:make-moment 1/20) %smallest space quintuplet or 5*4
-        proportionalNotationDuration = #(ly:make-moment 1/29) %smallest space quintuplet or 5*4
+        proportionalNotationDuration = #(ly:make-moment 1/16) %smallest space quintuplet or 5*4
 
         %proportionalNotationDuration = #(ly:make-moment 1/28)
         %proportionalNotationDuration = #(ly:make-moment 1/8)
@@ -231,8 +213,8 @@
 
       indent = 0
       %line-width = 158
-      line-width = 1000
-      #(layout-set-staff-size 33) %staff height
+      line-width = 100
+      #(layout-set-staff-size 20) %staff height
       % \hide Stem
       %\hide NoteHead
       % \hide LedgerLineSpanner

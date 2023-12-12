@@ -5,7 +5,8 @@
 %zoom 210%
 
 
-\paper{
+\paper
+{
   paper-width = 1450 %50px per beat
   paper-height = 100
 
@@ -16,25 +17,28 @@
   
   system-system-spacing =
   #'((basic-distance . 15)  %this controls space between lines default = 12
-                            (minimum-distance . 8)
-                            (padding . 1)
-                            (stretchability . 60)) 
-
+      (minimum-distance . 8)
+      (padding . 1)
+      (stretchability . 60)) 
 }
 
-\book {
 
-  \header {
+\book
+{
+
+  \header
+  {
     tagline = ##f %Do not display tagline
   }
 
-  \score {
-
+  \score
+  {
     <<
 
       \override Score.BarNumber.break-visibility = ##(#f #f #f) %The order of the three values is end of line visible, middle of line visible, beginning of line visible.
 
-      \new Staff \with {
+      \new Staff \with 
+      {
         \omit TimeSignature
         \omit BarLine
         \omit Clef
@@ -46,35 +50,22 @@
       {
         \time 29/4
         \override TupletBracket.bracket-visibility = ##t
-                \override TupletBracket.padding = 3
-
+        \override TupletBracket.padding = 3
         \override TupletNumber.visibility = ##f
-        %\once \override TupletNumber #'text = "7:4"
         \set tupletFullLength = ##t %http://lilypond.org/doc/v2.19/Documentation/snippets/rhythms
-        
         \override NoteHead.font-size = #-2
         \override DynamicText.font-size = #-2
-        
-        % \override Stem.details.beamed-lengths = #'(7)
-        %\override Stem.details.lengths = #'(7)
-        
-        
         \override Stem.details.beamed-lengths = #'(9)
         \override Stem.details.lengths = #'(9)
-        
         % \override NoteColumn.accent-skip = ##t
-        
         \override Accidental.font-size = -4 
         \override Stem.direction = #up
-        
         \stopStaff
-        
-        
-        
         \set Score.tempoHideNote = ##t
         \tempo 4 = 60
         
-        %Fix all tuplets number partials per beat
+
+        %%% SCORE BEGINS HERE %%%
         
         [f''16 e'8.~] e'4
         \tuplet 5/4 {b16 c' a' g'' a''~} a''8 
@@ -103,13 +94,9 @@
         
         e'4 %extra note for right border
 
+        %%% END SCORE %%%
         
-        
-        
-        
-        
-        
-        
+     
         % Notes Only, No Staff
         %     \stopStaff
         %         \override NoteHead.transparent = ##t
@@ -138,10 +125,6 @@
         %         }         
         
         %https://lilypond.org/doc/v2.20/Documentation/notation/list-of-articulations
-        
-        
-        
-      
         
         %           e'4 %quarter
         %           fis'4 %quarter sharp
@@ -205,11 +188,10 @@
         %           cis'16 cis' cis' cis' % Quadruplet sharp 1 ledger on
         %           a16 a a a % Quadruplet  2 ledgers on
         %           
-        
-        %    g16 g g g % Quadruplet 2 ledgers below
+        %           g16 g g g % Quadruplet 2 ledgers below
         %           gis16 gis gis gis % Quadruplet sharp 2 ledgers below
-        %            \tuplet 5/4 {e'16 e' e' e' e'} % Quintuplet
-        %            \tuplet 5/4 {fis'16 fis' fis' fis' fis'} % Quintuplet sharp
+        %           \tuplet 5/4 {e'16 e' e' e' e'} % Quintuplet
+        %           \tuplet 5/4 {fis'16 fis' fis' fis' fis'} % Quintuplet sharp
         %          
         %            \tuplet 5/4 {e'16 e' e' e' e'} % Quintuplet 1 ledger on
         %            \tuplet 5/4 {cis'16 cis' cis' cis' cis'} % Quintuplet sharp 1 ledger on
@@ -219,7 +201,7 @@
         %            \tuplet 5/4 {gis16 gis gis gis gis} % Quintuplet sharp 2 ledgers below
         %            e'4e'e'e' e'e'e'
         
-        %  e'16e'e'e'  
+        %           e'16e'e'e'  
         %           e'4        
         %           \tuplet 5/4 {e'''16\hide-> e'''e'''e'''e'''}       
         %           \tuplet 5/4 {f16\hide-> f f f f} 
@@ -229,28 +211,19 @@
         %           \tuplet 5/4 {    f16\hide-> f f f f }            
         %           \tuplet 5/4 {e'''16\hide-> e'''e'''e'''e'''}  
         
-        
-        
-        
-        
-        
-        
-        
       }
 
     >>
 
-    \layout{
-      \context {
+
+    \layout
+    {
+      \context
+      {
         \Score
-        %proportionalNotationDuration = #(ly:make-moment 1/20) %smallest space quintuplet or 5*4
         proportionalNotationDuration = #(ly:make-moment 1/35) 
-
-
-        %proportionalNotationDuration = #(ly:make-moment 1/28)
-        %proportionalNotationDuration = #(ly:make-moment 1/8)
         \override SpacingSpanner.uniform-stretching = ##t
-         \override SpacingSpanner.strict-note-spacing = ##t
+        \override SpacingSpanner.strict-note-spacing = ##t
         %  \override SpacingSpanner.strict-grace-spacing = ##t
         \override Beam.breakable = ##t
         \override Glissando.breakable = ##t
@@ -259,7 +232,6 @@
       }
 
       indent = 0
-      %line-width = 158
       line-width = 1450 %50px per beat
       #(layout-set-staff-size 33) %staff height
       % \hide Stem

@@ -1,0 +1,3617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="ILL20231212_inkscape.svg"
+   id="svg1106"
+   viewBox="0 0 663.98062 16.48676"
+   height="28.972174mm"
+   width="1166.8125mm"
+   version="1.2">
+  <metadata
+     id="metadata1112">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1110" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg1106"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="-164.4298"
+     inkscape:cx="1815.4451"
+     inkscape:zoom="0.19944605"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     id="namedview1108"
+     inkscape:window-height="878"
+     inkscape:window-width="2150"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <sodipodi:guide
+       id="guide1114"
+       orientation="1,0"
+       position="882.46275,-3.2676725" />
+  </sodipodi:namedview>
+  <style
+     id="style10"
+     text="style/css"><![CDATA[
+tspan { white-space: pre; }
+]]></style>
+  <!-- Page: 1/1 -->
+  <g
+     transform="matrix(0.75241763,0,0,0.75241763,-1.3906183,-0.7516681)"
+     id="g1661">
+    <text
+       font-family="serif"
+       font-size="2.2001px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text14"><tspan
+         id="tspan12" /></text>
+    <rect
+       transform="translate(251.8124,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect16" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:95:23:24"
+       id="a20">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,242.5455,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path18" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:95:27:28"
+       id="a24">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,246.3636,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path22" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:95:31:32"
+       id="a28">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,250.1818,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path26" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:98:8:9"
+       id="a32">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,254,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path30" />
+    </a>
+    <rect
+       transform="translate(255.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8333001"
+       width="0.15899999"
+       height="6.5756998"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect34" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:98:14:15"
+       id="a38">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,275,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path36" />
+    </a>
+    <rect
+       transform="translate(276.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect40" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:92:12:13"
+       id="a44">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,223.4545,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path42" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:92:16:17"
+       id="a48">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,226,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path46" />
+    </a>
+    <rect
+       transform="translate(227.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect50" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:95:10:11"
+       id="a54">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,231.0909,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path52" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:95:14:15"
+       id="a58">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,234.9091,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path56" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:95:18:19"
+       id="a62">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,238.7273,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path60" />
+    </a>
+    <rect
+       transform="translate(240.3579,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect64" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:22:23"
+       id="a68">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,317,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path66" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:28:29"
+       id="a72">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,320,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path70" />
+    </a>
+    <rect
+       transform="translate(321.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect74" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:33:34"
+       id="a78">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,323,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path76" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:37:38"
+       id="a82">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,326,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path80" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:41:42"
+       id="a86">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,329,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path84" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:45:46"
+       id="a90">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,332,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path88" />
+    </a>
+    <rect
+       transform="translate(333.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect92" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:89:20:21"
+       id="a96">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,219.6364,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path94" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:100:24:25"
+       id="a100">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,285.5,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path98" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:100:28:29"
+       id="a104">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,289,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path102" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:100:32:33"
+       id="a108">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,292.5,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path106" />
+    </a>
+    <rect
+       transform="translate(294.1306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect110" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:102:8:9"
+       id="a114">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,296,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path112" />
+    </a>
+    <rect
+       transform="translate(297.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect116" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:102:13:14"
+       id="a120">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,306.5,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path118" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:28:29"
+       id="a124">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,144.8,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path122" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:25:26"
+       id="a128">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,136.4,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path126" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:77:24:25"
+       id="a132">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,122.75,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path130" />
+    </a>
+    <rect
+       transform="translate(146.4306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect134" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:33:34"
+       id="a138">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,149,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path136" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:37:38"
+       id="a142">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,153.2,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path140" />
+    </a>
+    <rect
+       transform="translate(154.8306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect144" />
+    <path
+       transform="matrix(0.0066,0,0,-0.0066,94.7101,9.2065)"
+       d="m 0,0 c 0,-198 207,-336 207,-534 0,-71 -16,-142 -42,-208 -4,-7 -10,-11 -17,-11 -12,0 -24,10 -21,25 26,62 41,127 41,194 0,104 -96,209 -168,284 H -14 V 0 Z"
+       fill="currentColor"
+       id="path146" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:75:28:29"
+       id="a150">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,100,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path148" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:77:8:9"
+       id="a154">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,107,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path152" />
+    </a>
+    <rect
+       transform="translate(108.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect156" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:77:14:15"
+       id="a160">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,112.25,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path158" />
+    </a>
+    <rect
+       transform="translate(113.8806,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect162" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:77:19:20"
+       id="a166">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,117.5,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path164" />
+    </a>
+    <rect
+       transform="translate(119.1306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect168" />
+    <rect
+       transform="translate(188.4306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect170" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:85:8:9"
+       id="a174">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,191,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path172" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:85:12:13"
+       id="a178">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,201.5,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path176" />
+    </a>
+    <rect
+       transform="translate(203.1306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect180" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:83:38:39"
+       id="a184">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,186.8,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path182" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:89:10:11"
+       id="a188">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,212,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path186" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:89:15:16"
+       id="a192">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,215.8182,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path190" />
+    </a>
+    <rect
+       transform="translate(217.4488,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect194" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:41:42"
+       id="a198">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,161.6,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path196" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:83:21:22"
+       id="a202">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,170,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path200" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:83:26:27"
+       id="a206">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,174.2,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path204" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:83:30:31"
+       id="a210">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,178.4,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path208" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:83:34:35"
+       id="a214">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,182.6,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path212" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:42:43"
+       id="a218">
+      <path
+         transform="translate(707.6,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 0.4304,0.5361 1.2697,0.5361 1.7,0 v 0 c -0.4303,0.3893 -1.2696,0.3893 -1.7,0 z"
+         id="path216" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:46:47"
+       id="a222">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,458,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path220" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:50:51"
+       id="a226">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,461,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path224" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:34:35"
+       id="a230">
+      <path
+         transform="translate(705.5,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 0.4304,0.5361 1.2697,0.5361 1.7,0 v 0 c -0.4303,0.3893 -1.2696,0.3893 -1.7,0 z"
+         id="path228" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:14:15"
+       id="a236">
+      <text
+         transform="translate(710.2786,6.8851)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text234"><tspan
+           id="tspan232">5</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:14:15"
+       id="a246">
+      <line
+         transform="translate(707.0511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="8.0889997"
+         y1="0"
+         x2="8.0889997"
+         y2="0.69999999"
+         id="line238" />
+      <line
+         transform="translate(707.0511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line240" />
+      <line
+         transform="translate(707.0511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="8.0889997"
+         y1="0"
+         x2="5.2614999"
+         y2="0"
+         id="line242" />
+      <line
+         transform="translate(707.0511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="2.8275001"
+         y2="0"
+         id="line244" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:28:29"
+       id="a252">
+      <polygon
+         transform="translate(707.0511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="8.699,-0.2 8.699,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon248" />
+      <polygon
+         transform="translate(707.0511,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="8.699,-0.2 8.699,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon250" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:11:12"
+       id="a256">
+      <path
+         transform="translate(695,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 1.2393,0.9543 8.8608,0.9543 10.1,0 v 0 c -1.2392,0.8075 -8.8607,0.8075 -10.1,0 z"
+         id="path254" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:102:103"
+       id="a260">
+      <path
+         transform="translate(691.2941,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 0.6956,0.7396 2.6104,0.7396 3.3059,0 v 0 C 3.6654,1.3428 1.7506,1.3428 1.055,0.75 Z"
+         id="path258" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:8:9"
+       id="a266">
+      <text
+         transform="translate(660.616,6.9193)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text264"><tspan
+           id="tspan262">17:3</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:8:9"
+       id="a276">
+      <line
+         transform="translate(632.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="60.709999"
+         y1="0"
+         x2="60.709999"
+         y2="0.69999999"
+         id="line268" />
+      <line
+         transform="translate(632.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line270" />
+      <line
+         transform="translate(632.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="60.709999"
+         y1="0"
+         x2="33.484001"
+         y2="0"
+         id="line272" />
+      <line
+         transform="translate(632.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="27.226"
+         y2="0"
+         id="line274" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:28:29"
+       id="a282">
+      <polygon
+         transform="translate(632.9105,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="60.0537,-0.2 60.0537,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon278" />
+      <polygon
+         transform="translate(632.9105,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="60.0537,-0.2 60.0537,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon280" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:8:9"
+       id="a288">
+      <text
+         transform="translate(598.6269,6.9363)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text286"><tspan
+           id="tspan284">9:1</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:22:23"
+       id="a292">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,443,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path290" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:28:29"
+       id="a296">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,446,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path294" />
+    </a>
+    <rect
+       transform="translate(447.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect298" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:8:9"
+       id="a308">
+      <line
+         transform="translate(591.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.1756"
+         y1="0"
+         x2="18.1756"
+         y2="0.69999999"
+         id="line300" />
+      <line
+         transform="translate(591.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line302" />
+      <line
+         transform="translate(591.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.1756"
+         y1="0"
+         x2="11.4998"
+         y2="0"
+         id="line304" />
+      <line
+         transform="translate(591.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="6.6757998"
+         y2="0"
+         id="line306" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:33:34"
+       id="a312">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,449,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path310" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:37:38"
+       id="a316">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,452,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path314" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:41:42"
+       id="a320">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,455,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path318" />
+    </a>
+    <rect
+       transform="translate(456.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect322" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:91:10:11"
+       id="a332">
+      <line
+         transform="translate(224.4445,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="5.3463998"
+         y1="0"
+         x2="5.3463998"
+         y2="0.69999999"
+         id="line324" />
+      <line
+         transform="translate(224.4445,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line326" />
+      <line
+         transform="translate(224.4445,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="5.3463998"
+         y1="0"
+         x2="3.8901999"
+         y2="0"
+         id="line328" />
+      <line
+         transform="translate(224.4445,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="1.4562"
+         y2="0"
+         id="line330" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:108:8:9"
+       id="a338">
+      <text
+         transform="translate(346.6135,6.9193)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text336"><tspan
+           id="tspan334">5:1</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:108:8:9"
+       id="a348">
+      <line
+         transform="translate(339.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.148899"
+         y1="0"
+         x2="18.148899"
+         y2="0.69999999"
+         id="line340" />
+      <line
+         transform="translate(339.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line342" />
+      <line
+         transform="translate(339.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.148899"
+         y1="0"
+         x2="11.4865"
+         y2="0"
+         id="line344" />
+      <line
+         transform="translate(339.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="6.6623998"
+         y2="0"
+         id="line346" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:108:27:28"
+       id="a354">
+      <polygon
+         transform="translate(339.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="16.2784,-0.2 16.2784,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon350" />
+      <polygon
+         transform="translate(339.5511,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="16.2784,-0.2 16.2784,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon352" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:49:50"
+       id="a358">
+      <path
+         transform="translate(332,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 0.9492,0.8639 4.6509,0.8639 5.6,0 v 0 c -0.9491,0.7172 -4.6508,0.7172 -5.6,0 z"
+         id="path356" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:8:9"
+       id="a364">
+      <text
+         transform="translate(325.333,6.9193)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text362"><tspan
+           id="tspan360">7:1</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:8:9"
+       id="a374">
+      <line
+         transform="translate(317.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.709999"
+         y1="0"
+         x2="18.709999"
+         y2="0.69999999"
+         id="line366" />
+      <line
+         transform="translate(317.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line368" />
+      <line
+         transform="translate(317.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.709999"
+         y1="0"
+         x2="11.767"
+         y2="0"
+         id="line370" />
+      <line
+         transform="translate(317.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="6.9429998"
+         y2="0"
+         id="line372" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:105:26:27"
+       id="a380">
+      <polygon
+         transform="translate(317.9105,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="15.7596,-0.2 15.7596,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon376" />
+      <polygon
+         transform="translate(317.9105,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="3.7596,-0.2 3.7596,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon378" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:102:12:13"
+       id="a384">
+      <polygon
+         transform="translate(297.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="9.8134,-0.2 9.8134,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon382" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:100:11:12"
+       id="a390">
+      <text
+         transform="translate(289.778,6.9363)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text388"><tspan
+           id="tspan386">3</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:100:11:12"
+       id="a400">
+      <line
+         transform="translate(286.49,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="8.21"
+         y1="0"
+         x2="8.21"
+         y2="0.69999999"
+         id="line392" />
+      <line
+         transform="translate(286.49,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line394" />
+      <line
+         transform="translate(286.49,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="8.21"
+         y1="0"
+         x2="5.322"
+         y2="0"
+         id="line396" />
+      <line
+         transform="translate(286.49,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="2.888"
+         y2="0"
+         id="line398" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:100:8:9"
+       id="a406">
+      <polygon
+         transform="translate(276.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="17.619,-0.2 17.619,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon402" />
+      <polygon
+         transform="translate(293.0306,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="1.1395,-0.2 1.1395,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon404" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:98:12:13"
+       id="a410">
+      <path
+         transform="translate(254,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 1.5374,1.0145 19.0627,1.0145 20.6,0 v 0 c -1.5373,0.8677 -19.0626,0.8677 -20.6,0 z"
+         id="path408" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:91:10:11"
+       id="a416">
+      <text
+         transform="translate(226.3007,6.9363)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text414"><tspan
+           id="tspan412">3</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:88:8:9"
+       id="a422">
+      <text
+         transform="translate(230.2184,2.9462)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text420"><tspan
+           id="tspan418">11:2</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:88:8:9"
+       id="a432">
+      <line
+         transform="translate(212.99,1.9902)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="39.709999"
+         y1="0"
+         x2="39.709999"
+         y2="0.69999999"
+         id="line424" />
+      <line
+         transform="translate(212.99,1.9902)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line426" />
+      <line
+         transform="translate(212.99,1.9902)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="39.709999"
+         y1="0"
+         x2="22.881599"
+         y2="0"
+         id="line428" />
+      <line
+         transform="translate(212.99,1.9902)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="16.8284"
+         y2="0"
+         id="line430" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:89:14:15"
+       id="a440">
+      <polygon
+         transform="translate(212.9105,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="38.9414,-0.2 38.9414,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon434" />
+      <polygon
+         transform="translate(240.2784,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="11.5735,-0.2 11.5735,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon436" />
+      <polygon
+         transform="translate(212.9105,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="4.5778,-0.2 4.5778,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon438" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:85:11:12"
+       id="a444">
+      <polygon
+         transform="translate(191.7455,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="11.4246,-0.2 11.4246,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon442" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:83:8:9"
+       id="a450">
+      <text
+         transform="translate(178.333,6.9193)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text448"><tspan
+           id="tspan446">5:1</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:83:8:9"
+       id="a460">
+      <line
+         transform="translate(170.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.709999"
+         y1="0"
+         x2="18.709999"
+         y2="0.69999999"
+         id="line452" />
+      <line
+         transform="translate(170.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line454" />
+      <line
+         transform="translate(170.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.709999"
+         y1="0"
+         x2="11.767"
+         y2="0"
+         id="line456" />
+      <line
+         transform="translate(170.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="6.9429998"
+         y2="0"
+         id="line458" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:83:24:25"
+       id="a466">
+      <polygon
+         transform="translate(170.9105,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="17.5596,-0.2 17.5596,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon462" />
+      <polygon
+         transform="translate(170.9105,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="17.5596,-0.2 17.5596,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon464" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:8:9"
+       id="a472">
+      <text
+         transform="translate(146.7505,6.9193)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text470"><tspan
+           id="tspan468">5:2</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:8:9"
+       id="a482">
+      <line
+         transform="translate(128.825,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="39.875"
+         y1="0"
+         x2="39.875"
+         y2="0.69999999"
+         id="line474" />
+      <line
+         transform="translate(128.825,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line476" />
+      <line
+         transform="translate(128.825,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="39.875"
+         y1="0"
+         x2="22.349501"
+         y2="0"
+         id="line478" />
+      <line
+         transform="translate(128.825,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="17.525499"
+         y2="0"
+         id="line480" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:21:22"
+       id="a488">
+      <polygon
+         transform="translate(128.7455,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="33.719,-0.2 33.719,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon484" />
+      <polygon
+         transform="translate(145.3306,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="1.1395,-0.2 1.1395,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon486" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:77:13:14"
+       id="a494">
+      <polygon
+         transform="translate(108.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="15.2284,-0.2 15.2284,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon490" />
+      <polygon
+         transform="translate(108.5511,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="15.2284,-0.2 15.2284,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon492" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:75:8:9"
+       id="a500">
+      <text
+         transform="translate(94.2505,7.0697)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text498"><tspan
+           id="tspan496">3:1</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:75:8:9"
+       id="a510">
+      <line
+         transform="translate(86.825,6.1137)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.875"
+         y1="0"
+         x2="18.875"
+         y2="0.69999999"
+         id="line502" />
+      <line
+         transform="translate(86.825,6.1137)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line504" />
+      <line
+         transform="translate(86.825,6.1137)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.875"
+         y1="0"
+         x2="11.8495"
+         y2="0"
+         id="line506" />
+      <line
+         transform="translate(86.825,6.1137)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="7.0254998"
+         y2="0"
+         id="line508" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:122:26:27"
+       id="a516">
+      <polygon
+         transform="translate(507.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="16.2784,-0.2 16.2784,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon512" />
+      <polygon
+         transform="translate(515.9511,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="7.8784,-0.2 7.8784,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon514" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:27:28"
+       id="a522">
+      <polygon
+         transform="translate(591.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="18.7856,-0.2 18.7856,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon518" />
+      <polygon
+         transform="translate(591.5511,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="18.7856,-0.2 18.7856,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon520" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:129:12:13"
+       id="a526">
+      <polygon
+         transform="translate(570.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="9.8134,-0.2 9.8134,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon524" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:127:35:36"
+       id="a530">
+      <path
+         transform="translate(562,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 1.0313,0.8939 5.5688,0.8939 6.6,0 v 0 c -1.0312,0.7471 -5.5687,0.7471 -6.6,0 z"
+         id="path528" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:127:8:9"
+       id="a536">
+      <text
+         transform="translate(556.6135,6.9363)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text534"><tspan
+           id="tspan532">3:1</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:127:8:9"
+       id="a546">
+      <line
+         transform="translate(549.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.148899"
+         y1="0"
+         x2="18.148899"
+         y2="0.69999999"
+         id="line538" />
+      <line
+         transform="translate(549.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line540" />
+      <line
+         transform="translate(549.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.148899"
+         y1="0"
+         x2="11.4865"
+         y2="0"
+         id="line542" />
+      <line
+         transform="translate(549.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="6.6623998"
+         y2="0"
+         id="line544" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:127:26:27"
+       id="a550">
+      <polygon
+         transform="translate(549.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="14.119,-0.2 14.119,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon548" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:124:28:29"
+       id="a554">
+      <path
+         transform="translate(542.75,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 0.8779,0.8343 3.9722,0.8343 4.85,0 v 0 c -0.8778,0.6876 -3.9721,0.6876 -4.85,0 z"
+         id="path552" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:124:13:14"
+       id="a560">
+      <polygon
+         transform="translate(528.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="15.869,-0.2 15.869,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon556" />
+      <polygon
+         transform="translate(528.5511,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="15.869,-0.2 15.869,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon558" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:122:8:9"
+       id="a566">
+      <text
+         transform="translate(514.6135,6.9193)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text564"><tspan
+           id="tspan562">5:1</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:122:8:9"
+       id="a576">
+      <line
+         transform="translate(507.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.148899"
+         y1="0"
+         x2="18.148899"
+         y2="0.69999999"
+         id="line568" />
+      <line
+         transform="translate(507.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line570" />
+      <line
+         transform="translate(507.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.148899"
+         y1="0"
+         x2="11.4865"
+         y2="0"
+         id="line572" />
+      <line
+         transform="translate(507.5511,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="6.6623998"
+         y2="0"
+         id="line574" />
+    </a>
+    <rect
+       transform="translate(439.3806,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect578" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:76:77"
+       id="a582">
+      <path
+         transform="translate(502.1818,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 0.7108,0.7487 2.7075,0.7487 3.4182,0 v 0 C 3.7625,1.352 1.7658,1.352 1.055,0.75 Z"
+         id="path580" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:8:9"
+       id="a588">
+      <text
+         transform="translate(482.2184,6.9363)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text586"><tspan
+           id="tspan584">11:2</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:8:9"
+       id="a598">
+      <line
+         transform="translate(464.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="39.709999"
+         y1="0"
+         x2="39.709999"
+         y2="0.69999999"
+         id="line590" />
+      <line
+         transform="translate(464.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line592" />
+      <line
+         transform="translate(464.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="39.709999"
+         y1="0"
+         x2="22.881599"
+         y2="0"
+         id="line594" />
+      <line
+         transform="translate(464.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="16.8284"
+         y2="0"
+         id="line596" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:27:28"
+       id="a604">
+      <polygon
+         transform="translate(464.9105,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="38.9414,-0.2 38.9414,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon600" />
+      <polygon
+         transform="translate(464.9105,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="38.9414,-0.2 38.9414,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon602" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:8:9"
+       id="a610">
+      <text
+         transform="translate(451.333,6.9193)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text608"><tspan
+           id="tspan606">7:1</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:8:9"
+       id="a620">
+      <line
+         transform="translate(443.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.709999"
+         y1="0"
+         x2="18.709999"
+         y2="0.69999999"
+         id="line612" />
+      <line
+         transform="translate(443.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line614" />
+      <line
+         transform="translate(443.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="18.709999"
+         y1="0"
+         x2="11.767"
+         y2="0"
+         id="line616" />
+      <line
+         transform="translate(443.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="6.9429998"
+         y2="0"
+         id="line618" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:116:26:27"
+       id="a626">
+      <polygon
+         transform="translate(443.9105,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="18.119,-0.2 18.119,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon622" />
+      <polygon
+         transform="translate(443.9105,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="18.119,-0.2 18.119,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon624" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:113:13:14"
+       id="a632">
+      <polygon
+         transform="translate(423.5511,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="15.869,-0.2 15.869,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon628" />
+      <polygon
+         transform="translate(423.5511,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="15.869,-0.2 15.869,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon630" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:80:81"
+       id="a636">
+      <path
+         transform="translate(412.3077,16.0415)"
+         stroke-width="0.0978"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="currentColor"
+         fill="currentColor"
+         d="m 1.055,0.75 c 1.1996,0.9442 8.0928,0.9442 9.2924,0 v 0 C 9.1478,1.5475 2.2546,1.5475 1.055,0.75 Z"
+         id="path634" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:8:9"
+       id="a642">
+      <text
+         transform="translate(387.616,6.9363)"
+         font-family="serif"
+         font-style="italic"
+         font-size="2.8814px"
+         text-anchor="start"
+         fill="currentColor"
+         id="text640"><tspan
+           id="tspan638">13:3</tspan></text>
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:8:9"
+       id="a652">
+      <line
+         transform="translate(359.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="60.709999"
+         y1="0"
+         x2="60.709999"
+         y2="0.69999999"
+         id="line644" />
+      <line
+         transform="translate(359.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="-0.2"
+         y2="0.69999999"
+         id="line646" />
+      <line
+         transform="translate(359.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="60.709999"
+         y1="0"
+         x2="33.484001"
+         y2="0"
+         id="line648" />
+      <line
+         transform="translate(359.99,5.9803)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.1957"
+         stroke="currentColor"
+         x1="-0.2"
+         y1="0"
+         x2="27.226"
+         y2="0"
+         id="line650" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:28:29"
+       id="a658">
+      <polygon
+         transform="translate(359.9105,9.2203)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="54.0673,-0.2 54.0673,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon654" />
+      <polygon
+         transform="translate(359.9105,10.0415)"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.08"
+         fill="currentColor"
+         stroke="currentColor"
+         points="44.375,-0.2 44.375,0.2 0.04,0.2 0.04,-0.2 "
+         id="polygon656" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:24:25"
+       id="a662">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,359,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path660" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:30:31"
+       id="a666">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,363.8462,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path664" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:34:35"
+       id="a670">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,368.6923,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path668" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:39:40"
+       id="a674">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,373.5385,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path672" />
+    </a>
+    <rect
+       transform="translate(375.1691,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect676" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:44:45"
+       id="a680">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,378.3846,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path678" />
+    </a>
+    <rect
+       transform="translate(380.0152,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect682" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:108:33:34"
+       id="a686">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,346.4,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path684" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:108:22:23"
+       id="a690">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,338,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path688" />
+    </a>
+    <rect
+       transform="translate(339.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect692" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:108:29:30"
+       id="a696">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,342.2,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path694" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:49:50"
+       id="a700">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,383.2308,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path698" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:108:37:38"
+       id="a704">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,350.6,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path702" />
+    </a>
+    <rect
+       transform="translate(352.2306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect706" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:108:42:43"
+       id="a710">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,354.8,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path708" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:76:77"
+       id="a714">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,412.3077,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path712" />
+    </a>
+    <rect
+       transform="translate(413.9383,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect716" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:113:8:9"
+       id="a720">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,422,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path718" />
+    </a>
+    <rect
+       transform="translate(423.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect722" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:72:73"
+       id="a726">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,407.4615,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path724" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:113:14:15"
+       id="a730">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,427.25,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path728" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:113:18:19"
+       id="a734">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,432.5,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path732" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:113:22:23"
+       id="a738">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,437.75,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path736" />
+    </a>
+    <rect
+       transform="translate(384.8614,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect740" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:54:55"
+       id="a744">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,388.0769,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path742" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:58:59"
+       id="a748">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,392.9231,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path746" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:80:22:23"
+       id="a752">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,128,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path750" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:62:63"
+       id="a756">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,397.7692,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path754" />
+    </a>
+    <rect
+       transform="translate(399.3998,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect758" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:111:67:68"
+       id="a762">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,402.6154,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path760" />
+    </a>
+    <rect
+       transform="translate(404.246,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect764" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:129:8:9"
+       id="a768">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,569,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path766" />
+    </a>
+    <rect
+       transform="translate(570.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect770" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:129:14:15"
+       id="a774">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,579.5,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path772" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:22:23"
+       id="a778">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,590,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path776" />
+    </a>
+    <rect
+       transform="translate(591.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect780" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:29:30"
+       id="a784">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,592.3333,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path782" />
+    </a>
+    <rect
+       transform="translate(593.9639,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect786" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:34:35"
+       id="a790">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,594.6667,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path788" />
+    </a>
+    <rect
+       transform="translate(596.2973,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect792" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:124:19:20"
+       id="a796">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,537.5,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path794" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:124:23:24"
+       id="a800">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,542.75,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path798" />
+    </a>
+    <rect
+       transform="translate(544.3806,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect802" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:127:22:23"
+       id="a806">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,548,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path804" />
+    </a>
+    <rect
+       transform="translate(549.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect808" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:127:28:29"
+       id="a812">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,555,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path810" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:127:31:32"
+       id="a816">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,562,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path814" />
+    </a>
+    <rect
+       transform="translate(563.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect818" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:24:25"
+       id="a822">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,632,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path820" />
+    </a>
+    <rect
+       transform="translate(94.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.875"
+       width="0.15899999"
+       height="6.6174002"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect824" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:64:65"
+       id="a828">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,608.6667,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path826" />
+    </a>
+    <rect
+       transform="translate(610.2973,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect830" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:134:8:9"
+       id="a834">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,611,16.0415)"
+         d="m -23,-113 c 0,26 10,40 36,40 34,0 85,-15 130,-37 L 6,54 c -7,8 -10,17 -10,25 0,33 49,64 86,96 26,22 39,54 39,85 0,24 -8,47 -24,67 l -39,46 c -2,3 -3,6 -3,9 0,7 7,14 14,14 3,0 7,-1 10,-5 L 231,209 c 7,-8 10,-17 10,-25 0,-33 -49,-64 -86,-96 -26,-22 -39,-54 -39,-85 0,-24 8,-47 24,-67 l 87,-104 c 2,-3 3,-5 3,-8 0,-7 -7,-14 -14,-14 -3,0 -7,1 -10,5 -19,22 -66,43 -102,43 -40,0 -52,-29 -52,-70 0,-35 11,-75 28,-96 4,-5 0,-11 -5,-11 -2,0 -4,0 -5,2 -46,55 -93,150 -93,204 z"
+         fill="currentColor"
+         id="path832" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:30:31"
+       id="a838">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,635.7059,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path836" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:34:35"
+       id="a842">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,639.4118,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path840" />
+    </a>
+    <rect
+       transform="translate(641.0424,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect844" />
+    <rect
+       transform="translate(603.2973,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect846" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:39:40"
+       id="a850">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,597,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path848" />
+    </a>
+    <rect
+       transform="translate(598.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect852" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:44:45"
+       id="a856">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,599.3333,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path854" />
+    </a>
+    <rect
+       transform="translate(600.9639,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect858" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:49:50"
+       id="a862">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,601.6667,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path860" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:54:55"
+       id="a866">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,604,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path864" />
+    </a>
+    <rect
+       transform="translate(605.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect868" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:132:59:60"
+       id="a872">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,606.3333,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path870" />
+    </a>
+    <rect
+       transform="translate(607.9639,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect874" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:34:35"
+       id="a878">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,471.6364,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path876" />
+    </a>
+    <rect
+       transform="translate(473.267,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect880" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:40:41"
+       id="a884">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,475.4545,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path882" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:44:45"
+       id="a888">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,479.2727,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path886" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:48:49"
+       id="a892">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,483.0909,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path890" />
+    </a>
+    <rect
+       transform="translate(484.7215,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect894" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:53:54"
+       id="a898">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,486.9091,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path896" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:72:8:9"
+       id="a902">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,2,16.0415)"
+         d="m -23,-113 c 0,26 10,40 36,40 34,0 85,-15 130,-37 L 6,54 c -7,8 -10,17 -10,25 0,33 49,64 86,96 26,22 39,54 39,85 0,24 -8,47 -24,67 l -39,46 c -2,3 -3,6 -3,9 0,7 7,14 14,14 3,0 7,-1 10,-5 L 231,209 c 7,-8 10,-17 10,-25 0,-33 -49,-64 -86,-96 -26,-22 -39,-54 -39,-85 0,-24 8,-47 24,-67 l 87,-104 c 2,-3 3,-5 3,-8 0,-7 -7,-14 -14,-14 -3,0 -7,1 -10,5 -19,22 -66,43 -102,43 -40,0 -52,-29 -52,-70 0,-35 11,-75 28,-96 4,-5 0,-11 -5,-11 -2,0 -4,0 -5,2 -46,55 -93,150 -93,204 z"
+         fill="currentColor"
+         id="path900" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:68:8:9"
+       id="a904" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:57:58"
+       id="a908">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,490.7273,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path906" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:23:24"
+       id="a912">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,464,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path910" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:29:30"
+       id="a916">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,467.8182,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path914" />
+    </a>
+    <rect
+       transform="translate(469.4488,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect918" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:122:28:29"
+       id="a922">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,514.4,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path920" />
+    </a>
+    <rect
+       transform="translate(516.0306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect924" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:122:33:34"
+       id="a928">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,518.6,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path926" />
+    </a>
+    <rect
+       transform="translate(520.2306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect930" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:122:38:39"
+       id="a934">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,522.8,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path932" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:124:8:9"
+       id="a938">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,527,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path936" />
+    </a>
+    <rect
+       transform="translate(528.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect940" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:124:15:16"
+       id="a944">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,532.25,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path942" />
+    </a>
+    <rect
+       transform="translate(492.3579,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect946" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:62:63"
+       id="a950">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,494.5455,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path948" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:66:67"
+       id="a954">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,498.3636,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path952" />
+    </a>
+    <rect
+       transform="translate(499.9942,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect956" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:119:71:72"
+       id="a960">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,502.1818,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path958" />
+    </a>
+    <rect
+       transform="translate(503.8124,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect962" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:122:22:23"
+       id="a966">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,506,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path964" />
+    </a>
+    <rect
+       transform="translate(507.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect968" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:7:8"
+       id="a972">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,695,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path970" />
+    </a>
+    <rect
+       transform="translate(696.6306,16.0415)"
+       x="-0.079499997"
+       y="-6.875"
+       width="0.15899999"
+       height="6.6174002"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect974" />
+    <path
+       transform="matrix(0.0066,0,0,-0.0066,696.7101,9.2065)"
+       d="m 0,0 c 0,-198 207,-336 207,-534 0,-71 -16,-142 -42,-208 -4,-7 -10,-11 -17,-11 -12,0 -24,10 -21,25 26,62 41,127 41,194 0,104 -96,209 -168,284 H -14 V 0 Z"
+       fill="currentColor"
+       id="path976" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:29:30"
+       id="a980">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,705.5,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path978" />
+    </a>
+    <rect
+       transform="translate(707.1306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect982" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:36:37"
+       id="a986">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,707.6,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path984" />
+    </a>
+    <rect
+       transform="translate(709.2306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect988" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:44:45"
+       id="a992">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,709.7,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path990" />
+    </a>
+    <rect
+       transform="translate(711.3306,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect994" />
+    <rect
+       transform="translate(685.513,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect996" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:79:80"
+       id="a1000">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,676.4706,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path998" />
+    </a>
+    <rect
+       transform="translate(678.1012,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1002" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:84:85"
+       id="a1006">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,680.1765,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1004" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:88:89"
+       id="a1010">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,683.8824,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path1008" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:49:50"
+       id="a1014">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,711.8,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1012" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:93:94"
+       id="a1018">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,687.5882,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1016" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:97:98"
+       id="a1022">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,691.2941,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path1020" />
+    </a>
+    <rect
+       transform="translate(692.9247,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1024" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:72:11:12"
+       id="a1028">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,23,16.0415)"
+         d="m -23,-113 c 0,26 10,40 36,40 34,0 85,-15 130,-37 L 6,54 c -7,8 -10,17 -10,25 0,33 49,64 86,96 26,22 39,54 39,85 0,24 -8,47 -24,67 l -39,46 c -2,3 -3,6 -3,9 0,7 7,14 14,14 3,0 7,-1 10,-5 L 231,209 c 7,-8 10,-17 10,-25 0,-33 -49,-64 -86,-96 -26,-22 -39,-54 -39,-85 0,-24 8,-47 24,-67 l 87,-104 c 2,-3 3,-5 3,-8 0,-7 -7,-14 -14,-14 -3,0 -7,1 -10,5 -19,22 -66,43 -102,43 -40,0 -52,-29 -52,-70 0,-35 11,-75 28,-96 4,-5 0,-11 -5,-11 -2,0 -4,0 -5,2 -46,55 -93,150 -93,204 z"
+         fill="currentColor"
+         id="path1026" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:72:13:14"
+       id="a1032">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,44,16.0415)"
+         d="m -23,-113 c 0,26 10,40 36,40 34,0 85,-15 130,-37 L 6,54 c -7,8 -10,17 -10,25 0,33 49,64 86,96 26,22 39,54 39,85 0,24 -8,47 -24,67 l -39,46 c -2,3 -3,6 -3,9 0,7 7,14 14,14 3,0 7,-1 10,-5 L 231,209 c 7,-8 10,-17 10,-25 0,-33 -49,-64 -86,-96 -26,-22 -39,-54 -39,-85 0,-24 8,-47 24,-67 l 87,-104 c 2,-3 3,-5 3,-8 0,-7 -7,-14 -14,-14 -3,0 -7,1 -10,5 -19,22 -66,43 -102,43 -40,0 -52,-29 -52,-70 0,-35 11,-75 28,-96 4,-5 0,-11 -5,-11 -2,0 -4,0 -5,2 -46,55 -93,150 -93,204 z"
+         fill="currentColor"
+         id="path1030" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:72:15:16"
+       id="a1036">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,65,16.0415)"
+         d="m -23,-113 c 0,26 10,40 36,40 34,0 85,-15 130,-37 L 6,54 c -7,8 -10,17 -10,25 0,33 49,64 86,96 26,22 39,54 39,85 0,24 -8,47 -24,67 l -39,46 c -2,3 -3,6 -3,9 0,7 7,14 14,14 3,0 7,-1 10,-5 L 231,209 c 7,-8 10,-17 10,-25 0,-33 -49,-64 -86,-96 -26,-22 -39,-54 -39,-85 0,-24 8,-47 24,-67 l 87,-104 c 2,-3 3,-5 3,-8 0,-7 -7,-14 -14,-14 -3,0 -7,1 -10,5 -19,22 -66,43 -102,43 -40,0 -52,-29 -52,-70 0,-35 11,-75 28,-96 4,-5 0,-11 -5,-11 -2,0 -4,0 -5,2 -46,55 -93,150 -93,204 z"
+         fill="currentColor"
+         id="path1034" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:75:21:22"
+       id="a1040">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,86,16.0415)"
+         d="M 76,-250 192,77 C 157,65 122,54 85,54 39,54 -2,88 -2,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 58,54 65,70 5,11 20,10 24,0 L 124,-250 c -7,-6 -16,-9 -24,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1038" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:75:24:25"
+       id="a1044">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,93,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path1042" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:139:53:54"
+       id="a1048">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,714.08,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path1046" />
+    </a>
+    <rect
+       transform="translate(715.7106,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1050" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:141:8:9"
+       id="a1054">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,716.3165,16.0415)"
+         d="m 243,135 c 93,0 215,-33 239,-112 v 130 c 0,12 9,22 21,22 12,0 22,-10 22,-22 v -306 c 0,-12 -10,-22 -22,-22 -12,0 -21,10 -21,22 V -23 C 458,-102 336,-135 243,-135 150,-135 27,-102 3,-23 v -130 c 0,-12 -9,-22 -21,-22 -12,0 -22,10 -22,22 v 306 c 0,12 10,22 22,22 12,0 21,-10 21,-22 V 23 c 24,79 147,112 240,112 z m -34,-21 c -51,0 -70,-43 -70,-89 0,-78 59,-139 137,-139 51,0 70,43 70,89 0,78 -59,139 -137,139 z"
+         fill="currentColor"
+         id="path1052" />
+    </a>
+    <rect
+       x="884.15198"
+       y="16.33502"
+       width="0.15899999"
+       height="6.5756998"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1060" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:70:71"
+       id="a1064">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,669.0588,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1062" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:43:44"
+       id="a1068">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,646.8235,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1066" />
+    </a>
+    <rect
+       transform="translate(652.16,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1070" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:62:63"
+       id="a1074">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,661.6471,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1072" />
+    </a>
+    <rect
+       transform="translate(655.8659,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1076" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:52:53"
+       id="a1080">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,654.2353,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path1078" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:47:48"
+       id="a1084">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,650.5294,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path1082" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:39:40"
+       id="a1088">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,643.1176,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1086" />
+    </a>
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:66:67"
+       id="a1092">
+      <path
+         transform="matrix(0.0066,0,0,-0.0066,665.3529,16.0415)"
+         d="m 71,-500 100,327 c -35,-13 -72,-23 -109,-23 -46,0 -87,34 -87,80 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 57,53 62,70 L 247,77 C 213,65 177,54 140,54 94,54 53,88 53,134 c 0,39 31,71 71,71 26,0 49,-16 57,-40 10,-28 6,-60 35,-60 17,0 53,54 60,70 4,11 20,11 24,0 L 118,-500 c -7,-6 -15,-9 -23,-9 -8,0 -17,3 -24,9 z"
+         fill="currentColor"
+         id="path1090" />
+    </a>
+    <rect
+       transform="translate(674.3953,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1094" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:57:58"
+       id="a1098">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,657.9412,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path1096" />
+    </a>
+    <rect
+       transform="translate(659.5718,16.0415)"
+       x="-0.079499997"
+       y="-6.8211002"
+       width="0.15899999"
+       height="6.5634999"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1100" />
+    <a
+       style="color:inherit"
+       xlink:href="textedit:///Users/jwy/Documents/OPUS/GitHub/ill20231212/public/pieces/ill20231212/notation/ILL20231212.ly:137:74:75"
+       id="a1104">
+      <path
+         transform="matrix(0.0052,0,0,-0.0052,672.7647,16.0415)"
+         d="m 222,135 c 53,0 104,-27 104,-86 0,-71 -56,-120 -103,-148 -36,-22 -76,-36 -118,-36 -53,0 -105,27 -105,86 0,71 57,120 104,148 36,22 76,36 118,36 z"
+         fill="currentColor"
+         id="path1102" />
+    </a>
+  </g>
+</svg>
