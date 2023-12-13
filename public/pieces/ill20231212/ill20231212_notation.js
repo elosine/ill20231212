@@ -1,5 +1,13 @@
 //#ef NOTES
 /*
+Go through and redoo timelineFRAMES check 105px per beat
+one beat takes x frames
+60bpm/1bps
+60 frames
+1.75 pixels per frame
+pixel counter: advance this many pixels per frame; float counter
+in update, last minute round to the nearest int in pixel counter
+
 Calculate BB Timing
 Animate/Update BBs
 Animated Cursor
@@ -22,14 +30,27 @@ const FRAMERATE = 60;
 const FRAMES_PER_MS = FRAMERATE / 1000;
 let FRAMECOUNT = 0;
 const PX_PER_BEAT = 105;
+const MS_PER_FRAME = 1000.0 / FRAMERATE;
+//Below all BPM Based
+// let tempos = [60, 96.92, 37.14];
+// let tempoConsts = []; //bpm, bpSec, pxPerSec, pxPerMS, MSperPx, pxPerFrame, beatDurFrames
+// tempos.forEach((tempo, i) => {
+//   let td = {};
+//   let bpsec = tempo/60;
+//   let pxpersec = PX_PER_BEAT * bpSec;
+//   td['bpm'] = tempo;
+//   td['bpSec'] = bpsec;
+//   td['pxPerSec'] = pxpersec;
+//   td['pxPerMS'] = pxpersec/1000;
+//
+// });
+
 const TEMPO_BPM = 60;
 const TEMPO_BPSEC = TEMPO_BPM / 60;
 const PX_PER_SEC = PX_PER_BEAT * TEMPO_BPSEC; //scrolling speed; from the notation svg; 105 pixels between beats
 const PX_PER_MS = PX_PER_SEC / 1000;
-const MS_PER_PX = 1000 / PX_PER_SEC;
 const PX_PER_FRAME = PX_PER_SEC / FRAMERATE;
-const MS_PER_FRAME = 1000.0 / FRAMERATE;
-const BEAT_DUR_FRAMES = Math.round(PX_PER_BEAT / PX_PER_FRAME); //Width of the staff in frames
+const BEAT_DUR_FRAMES = PX_PER_BEAT / PX_PER_FRAME; //Width of the staff in frames
 //##endef Timing
 
 //#ef Animation Engine Variables
@@ -75,6 +96,11 @@ const STAFF_W = NOTATIONCANVAS_W;
 const LEFT_MARGIN = 3;
 const VERT_DISTANCE_BETWEEN_LINES = 115;
 const CURSOR_H = 80;
+const BEAT_LINES_Y1 = 15;
+const BEAT_LINES_H = 55;
+const BB_RADIUS = 5;
+const BB_Y1 = BEAT_LINES_Y1 + BB_RADIUS;
+console.log(BB_Y1);
 let staves = [];
 let beatLines = [];
 let beatLines_XY = [];
@@ -86,29 +112,29 @@ let oneBounceBbYpos = [];
 //#ef Staff Timing
 
 //##ef Calculate Ascent and Descent for 1 BB
-let ascentPct = 0.35; //looks best when descent is longer than ascent
+let ascentPct = 0.5;
 let descentPct = 1 - ascentPct;
 let numFramesUp = Math.floor(ascentPct * BEAT_DUR_FRAMES);
-let numFramesDown = Math.ceil(descentPct * BEAT_DUR_FRAMES);
-let ascentFactor = 0.2;
-let descentFactor = 2.8;
+let numFramesDown = Math.floor(descentPct * BEAT_DUR_FRAMES);
+let ascentFactor = 0.5;
+let  descentFactor = 3;
 let ascentPlot = plot(function(x) { //see Function library; exponential curve
-  return Math.pow(x, 1.9);
-}, [0, 1, 1, 0], numFramesUp, CURSOR_H, 0); //will create an object with numFramesUp length (x) .y is what you want
+  return Math.pow(x, ascentFactor);
+}, [0, 1, 1, 0], numFramesUp, BEAT_LINES_H, BB_Y1); //will create an object with numFramesUp length (x) .y is what you want
 
-ascentPlot.forEach((ascentPos) => { //curve for ascent
+ascentPlot.forEach((ascentPos) => { //curve for descent
   let tBbY = CURSOR_H - ascentPos.y; //calculate the absolute y position of bb
   oneBounceBbYpos.push(Math.round(tBbY)); //populate bbYpos_thisTempo array with bby position for every frame
-}); // ascentPlot.forEach((ascentPos) => END
+}); // descentPlot.forEach((descentPos) => END
 
-let descentPlot = plot(function(x) { //curve for descent
+let descentPlot = plot(function(x) { //curve for ascent
   return Math.pow(x, descentFactor);
-}, [0, 1, 1, 0], numFramesDown, CURSOR_H, 0);
+}, [0, 1, 1, 0], numFramesDown, BEAT_LINES_H, 0);
 
 descentPlot.forEach((descentPos) => {
   let tBbY = descentPos.y;
   oneBounceBbYpos.push(Math.round(tBbY));
-}); // descentPlot.forEach((descentPos) => END
+}); // ascentPlot.forEach((ascentPos) => END
 //##endef Calculate BBs
 
 console.log(oneBounceBbYpos);
@@ -132,16 +158,16 @@ for (var i = 0; i < (STAFF_WIDTH_IN_FRAMES * NUMLINES); i++) {
   tFrameDict['x'] = tpx;
   let tMS = Math.round(i * MS_PER_FRAME);
   tFrameDict['ms'] = tMS;
-  let tY = tJ * VERT_DISTANCE_BETWEEN_LINES;
+  let tY = (tJ * VERT_DISTANCE_BETWEEN_LINES) + BEAT_LINES_Y1;
   tFrameDict['y'] = tY; //which line cursor is on
   if (i != 0 && i % STAFF_WIDTH_IN_FRAMES == 0) tJ = tJ + 1; //increment tJ for each line
-  //BBs
-  //Find which frames beats are on
-  // use oneBounceBbYpos to calculate all bb positions and add to timeline frames
-
-
   timelineFRAMES.push(tFrameDict);
 }
+//BBs
+for (var i = 0; i < timelineFRAMES.length; i++) {
+  timelineFRAMES[i]['bby'] = oneBounceBbYpos[i%oneBounceBbYpos.length];
+}
+
 console.log(timelineFRAMES);
 //#endef Staff Timing
 
@@ -246,8 +272,8 @@ function drawNotation() {
 
     //Beat Lines
     for (var j = 0; j < 9; j++) {
-      let tx2 = j * 105;
-      let y2 = (i * VERT_DISTANCE_BETWEEN_LINES) + 15;
+      let tx2 = j * PX_PER_BEAT;
+      let y2 = (i * VERT_DISTANCE_BETWEEN_LINES) + BEAT_LINES_Y1;
       let tBl = mkSvgLine({
         svgContainer: staves[0].svg,
         x1: tx2,
@@ -260,7 +286,7 @@ function drawNotation() {
       beatLines.push(tBl);
       let tBeatLinesXYdict = {};
       tBeatLinesXYdict['x'] = tx2;
-      tBeatLinesXYdict['y'] = y2 + 55;
+      tBeatLinesXYdict['y'] = y2 + BEAT_LINES_H;
       beatLines_XY.push(tBeatLinesXYdict);
 
     }
@@ -314,9 +340,9 @@ function makeScrollingCursorBbs() {
 
   let tCsrBB = mkSvgCircle({
     svgContainer: staves[0].svg,
-    cx: 50,
-    cy: 50,
-    r: 5,
+    cx: 0,
+    cy: 0,
+    r: BB_RADIUS,
     fill: clr_brightGreen,
     stroke: 'white',
     strokeW: 0
@@ -348,8 +374,12 @@ function updateScrollingCsrs() {
     tempoCursors[0].setAttributeNS(null, 'x1', currScrollingCsrX);
     tempoCursors[0].setAttributeNS(null, 'x2', currScrollingCsrX);
     tempoCursors[0].setAttributeNS(null, 'y1', currScrollingCsrY);
-    tempoCursors[0].setAttributeNS(null, 'y2', currScrollingCsrY + CURSOR_H);
+    tempoCursors[0].setAttributeNS(null, 'y2', currScrollingCsrY + BEAT_LINES_H);
     //Scrolling BB
+    // cursorBBs[0].setAttributeNS(null, 'transform', "translate(" + currScrollingCsrX.toString() + "," + currScrollingCsrY.toString() + ")");
+    let tBBy = timelineFRAMES[timelineFrameIx].bby;
+    cursorBBs[0].setAttributeNS(null, 'cx', currScrollingCsrX);
+    cursorBBs[0].setAttributeNS(null, 'cy', tBBy + currScrollingCsrY);
 
   }
 } // function updateScrollingCsrs() END
