@@ -1120,6 +1120,14 @@ plot( function(x){return y of x}, [xmin, xmax, ymin, ymax], crvWidth, crvHeight 
 var coords = plot( function(x) {
   return Math.pow(x, 2.4);
 }, [0, 1, 0, 1], CRV_W, CRV_H);
+
+let plotEx = plot(function(x) { //see Function library; exponential curve
+  return Math.pow(x, 5); // factor: <1 greater change in the beginning, less at the end; >1 less change at start, more at end
+}, [0, 1, 1, 0], 1000, 1000, 0); // [0, 1, 0, 1], xRange, yRange, yAdd);
+// [0, 1, 1, 0] - x: 0-xRange, y: yAdd - yRange+yAdd
+// [0, 1, 0, 1] - x: 0-xRange, y: yRange+yAdd - yAdd
+console.log(plotEx);
+
 */
 
 // #endef END plot
