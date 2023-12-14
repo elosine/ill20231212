@@ -1,12 +1,12 @@
 //#ef NOTES
 /*
-generate plot in pixels for one beat up and down
-then interpolate in calctime line
+solve errors
+redo loops again based on num frames per loop
 */
 //#endef NOTES
 
 //#ef General Variables
-const TEMPO_COLORS = [clr_limeGreen, clr_mustard, clr_brightBlue, clr_brightOrange, clr_lavander, clr_darkRed2, clr_brightGreen];
+const TEMPO_COLORS = [clr_limeGreen, clr_mustard, clr_brightBlue, clr_brightOrange, clr_lavander, clr_darkRed2, clr_brightGreen, clr_lightGrey, clr_neonMagenta, clr_plum, clr_blueGrey];
 //Timing
 const FRAMERATE = 60;
 const MS_PER_FRAME = 1000.0 / FRAMERATE;
@@ -63,6 +63,41 @@ let scrollingCsrClrs = [];
 tempos.forEach((tempo, tix) => {
   scrollingCsrClrs.push(TEMPO_COLORS[tix % TEMPO_COLORS.length]);
 });
+//Loops
+let totalNumFramesPerLoop = [];
+let loops = [{
+  beatA: 4,
+  beatB: 8,
+  tempoIx: 0,
+  initY: scrollingCsrY1
+}, {
+  beatA: 11,
+  beatB: 13,
+  tempoIx: 1,
+  initY: scrollingCsrY1 + NOTATION_H + GAP_BTWN_NOTATION_LINES
+}, {
+  beatA: 15,
+  beatB: 16,
+  tempoIx: 2,
+  initY: scrollingCsrY1 + NOTATION_H + GAP_BTWN_NOTATION_LINES
+}, {
+  beatA: 23,
+  beatB: 26,
+  tempoIx: 0,
+  initY: scrollingCsrY1 + ((NOTATION_H + GAP_BTWN_NOTATION_LINES) * 2)
+}];
+loops.forEach((loopObj, loopIx) => {
+  let tNumBeats = loopObj.beatA - loopObj.beatB;
+  let tFramesPerLoop = Math.round(tempoConsts[loopObj.tempoIx].framesPerBeat * tNumBeats);
+  loops[loopIx]['numFrames'] = tFramesPerLoop;
+  let tLenPx = (loopObj.beatB - loopObj.beatA) * PX_PER_BEAT;
+  loops[loopIx]['lenPx'] = tLenPx;
+  let tpixa = (loopObj.beatA % BEATS_PER_LINE) * PX_PER_BEAT;
+  loops[loopIx]['beatApxX'] = tpixa;
+});
+console.log(loops);
+let loopCursors = [];
+let loopBbs = [];
 //BBs
 let BB_RADIUS = 4;
 let bbs = [];
@@ -134,6 +169,38 @@ function calcTimeline() {
 }
 //#endef Calculate Timelines
 
+//#ef Calculate Loops
+function calcLoops() {
+  loops.forEach((loopObj, loopIx) => {
+    let tTempoIx = loopObj.tempoIx;
+    let tNumFrames = loopObj.numFrames;
+    let frameArray = [];
+    for (var frmIx = 0; frmIx < tNumFrames; frmIx++) {
+      let td = {};
+      let tCurPx = Math.round(frmIx * tempoObj.pxPerFrame);
+      let tx = (tCurPx + loopObj.beatApxX) % NOTATION_LINE_LENGTH;
+      td['x'] = tx;
+      //Calc BBy
+      let tBbX = tCurPx % PX_PER_BEAT;
+      let tBbY = bbOneBeat[tBbX].y;
+      //Calc Y pos
+      let ty;
+      if ((tCurPx % loopObj.lenPx) + loopObj.beatApxX < NOTATION_LINE_LENGTH) {
+        ty = loopObj.initY;
+      } else  {
+        ty = loopObj.initY + NOTATION_H + GAP_BTWN_NOTATION_LINES;
+        tBbY = tBbY + NOTATION_H + GAP_BTWN_NOTATION_LINES;
+      }
+      td['y'] = ty;
+      td['bby'] = tBbY;
+      frameArray.push(td);
+    }
+    loops[loopIx]['frameArray'] = frameArray;
+    totalNumFramesPerLoop.push(frameArray.length);
+  });
+}
+//#endef Calculate Loops
+
 //#ef Animation Engine
 //Animation Engine Variables
 let cumulativeChangeBtwnFrames_MS = 0;
@@ -159,6 +226,11 @@ function update() {
     updateScrollingCsrs(currFrame, tempoIx);
     updateBbs(currFrame, tempoIx);
   });
+  //Loops
+    totalNumFramesPerLoop.forEach((numFrames, loopIx) => {
+      let currFrame = FRAMECOUNT % numFrames;
+      updateLoops(currFrame, loopIx);
+    });
 
 }
 //#endef Animation Engine END
@@ -169,8 +241,9 @@ function init() { //runs from html file: ill20231212.html <body onload='init();'
   drawNotation();
   makeScrollingCursors();
   makeBbs();
+  makeLoopCursors();
   calcTimeline();
-  console.log(tempoConsts);
+  calcLoops();
   //Initialize clock and start animation engine
   let ts_Date = new Date(TS.now()); //Date stamp object from TimeSync library
   let tsNowEpochTime_MS = ts_Date.getTime(); //current time at init in Epoch Time MS
@@ -275,7 +348,7 @@ function makeBbs() {
     bbs.push(tBb);
   }
 }
-//Animate Scrolling Cursors
+
 function updateScrollingCsrs(frame, tempoIx) {
   let tx = tempoConsts[tempoIx].frameArray[frame].x;
   let ty = tempoConsts[tempoIx].frameArray[frame].y;
@@ -293,9 +366,48 @@ function updateBbs(frame, tempoIx) {
 }
 //#endef Scrolling Cursor with BB
 
+//#ef Loops
+function makeLoopCursors() {
+  for (var i = 0; i < loops.length; i++) {
+    let tCsr = mkSvgLine({
+      svgContainer: canvas.svg,
+      x1: 0,
+      y1: scrollingCsrY1,
+      x2: 0,
+      y2: scrollingCsrY1 + scrollingCsrH,
+      stroke: TEMPO_COLORS[i + tempos.length],
+      strokeW: 2
+    });
+    tCsr.setAttributeNS(null, 'stroke-linecap', 'round');
+    tCsr.setAttributeNS(null, 'display', 'yes');
+    loopCursors.push(tCsr);
+  }
+}
 
+function makeLoopBbs() {
+  for (var i = 0; i < loops.length; i++) {
+    let tBb = mkSvgCircle({
+      svgContainer: canvas.svg,
+      cx: 0,
+      cy: 0,
+      r: BB_RADIUS,
+      fill: TEMPO_COLORS[i + tempos.length],
+      stroke: 'white',
+      strokeW: 0
+    });
+    loopBbs.push(tBb);
+  }
+}
 
-
+function updateLoops(frame, loopIx) {
+  let tx = loops[loopIx].frameArray[frame].x;
+  let ty = loops[loopIx].frameArray[frame].y;
+  loopCursors[loopIx].setAttributeNS(null, 'x1', tx);
+  loopCursors[loopIx].setAttributeNS(null, 'x2', tx);
+  loopCursors[loopIx].setAttributeNS(null, 'y1', ty);
+  loopCursors[loopIx].setAttributeNS(null, 'y2', ty + scrollingCsrH);
+}
+//#endef Loops
 
 
 //
