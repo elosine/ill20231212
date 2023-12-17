@@ -1,7 +1,7 @@
 //#ef NOTES
 /*
-solve errors
-redo loops again based on num frames per loop
+shrink bracket
+position right bracket
 */
 //#endef NOTES
 
@@ -71,23 +71,23 @@ let loops = [{
   tempoIx: 0,
   initY: scrollingCsrY1
 }, {
-  beatA: 11,
+  beatA: 10,
   beatB: 13,
   tempoIx: 1,
   initY: scrollingCsrY1 + NOTATION_H + GAP_BTWN_NOTATION_LINES
 }, {
   beatA: 15,
-  beatB: 16,
+  beatB: 17,
   tempoIx: 2,
   initY: scrollingCsrY1 + NOTATION_H + GAP_BTWN_NOTATION_LINES
 }, {
-  beatA: 23,
-  beatB: 26,
+  beatA: 21,
+  beatB: 25,
   tempoIx: 0,
   initY: scrollingCsrY1 + ((NOTATION_H + GAP_BTWN_NOTATION_LINES) * 2)
 }];
 loops.forEach((loopObj, loopIx) => {
-  let tNumBeats = loopObj.beatA - loopObj.beatB;
+  let tNumBeats = loopObj.beatB - loopObj.beatA;
   let tFramesPerLoop = Math.round(tempoConsts[loopObj.tempoIx].framesPerBeat * tNumBeats);
   loops[loopIx]['numFrames'] = tFramesPerLoop;
   let tLenPx = (loopObj.beatB - loopObj.beatA) * PX_PER_BEAT;
@@ -95,7 +95,6 @@ loops.forEach((loopObj, loopIx) => {
   let tpixa = (loopObj.beatA % BEATS_PER_LINE) * PX_PER_BEAT;
   loops[loopIx]['beatApxX'] = tpixa;
 });
-console.log(loops);
 let loopCursors = [];
 let loopBbs = [];
 //BBs
@@ -175,28 +174,32 @@ function calcLoops() {
     let tTempoIx = loopObj.tempoIx;
     let tNumFrames = loopObj.numFrames;
     let frameArray = [];
+
     for (var frmIx = 0; frmIx < tNumFrames; frmIx++) {
       let td = {};
-      let tCurPx = Math.round(frmIx * tempoObj.pxPerFrame);
+      let tCurPx = Math.round(frmIx * tempoConsts[tTempoIx].pxPerFrame);
       let tx = (tCurPx + loopObj.beatApxX) % NOTATION_LINE_LENGTH;
       td['x'] = tx;
       //Calc BBy
       let tBbX = tCurPx % PX_PER_BEAT;
-      let tBbY = bbOneBeat[tBbX].y;
+      let tBbY = bbOneBeat[tBbX].y + loopObj.initY - scrollingCsrY1;
       //Calc Y pos
+
       let ty;
       if ((tCurPx % loopObj.lenPx) + loopObj.beatApxX < NOTATION_LINE_LENGTH) {
         ty = loopObj.initY;
-      } else  {
+      } else {
         ty = loopObj.initY + NOTATION_H + GAP_BTWN_NOTATION_LINES;
         tBbY = tBbY + NOTATION_H + GAP_BTWN_NOTATION_LINES;
       }
       td['y'] = ty;
       td['bby'] = tBbY;
       frameArray.push(td);
+
     }
     loops[loopIx]['frameArray'] = frameArray;
     totalNumFramesPerLoop.push(frameArray.length);
+
   });
 }
 //#endef Calculate Loops
@@ -227,10 +230,10 @@ function update() {
     updateBbs(currFrame, tempoIx);
   });
   //Loops
-    totalNumFramesPerLoop.forEach((numFrames, loopIx) => {
-      let currFrame = FRAMECOUNT % numFrames;
-      updateLoops(currFrame, loopIx);
-    });
+  totalNumFramesPerLoop.forEach((numFrames, loopIx) => {
+    let currFrame = FRAMECOUNT % numFrames;
+    updateLoops(currFrame, loopIx);
+  });
 
 }
 //#endef Animation Engine END
@@ -239,9 +242,11 @@ function update() {
 function init() { //runs from html file: ill20231212.html <body onload='init();'></body>
   makeCanvas();
   drawNotation();
+  makeLoopBrackets();
   makeScrollingCursors();
   makeBbs();
   makeLoopCursors();
+  makeLoopBbs();
   calcTimeline();
   calcLoops();
   //Initialize clock and start animation engine
@@ -375,8 +380,8 @@ function makeLoopCursors() {
       y1: scrollingCsrY1,
       x2: 0,
       y2: scrollingCsrY1 + scrollingCsrH,
-      stroke: TEMPO_COLORS[i + tempos.length],
-      strokeW: 2
+      stroke: 'yellow',
+      strokeW: 3
     });
     tCsr.setAttributeNS(null, 'stroke-linecap', 'round');
     tCsr.setAttributeNS(null, 'display', 'yes');
@@ -391,12 +396,31 @@ function makeLoopBbs() {
       cx: 0,
       cy: 0,
       r: BB_RADIUS,
-      fill: TEMPO_COLORS[i + tempos.length],
+      fill: 'yellow',
       stroke: 'white',
       strokeW: 0
     });
     loopBbs.push(tBb);
   }
+}
+
+function makeLoopBrackets() {
+  loops.forEach((loopObj, loopIx) => {
+    let tSvgImage = document.createElementNS(SVG_NS, "image");
+    tSvgImage.setAttributeNS(XLINK_NS, 'xlink:href', '/pieces/ill20231212/notationSVGs/leftBracket.svg');
+    tSvgImage.setAttributeNS(null, "y", loopObj.initY-13);
+    tSvgImage.setAttributeNS(null, "x", loopObj.beatApxX);
+    tSvgImage.setAttributeNS(null, "visibility", 'visible');
+    tSvgImage.setAttributeNS(null, "display", 'yes');
+    canvas.svg.appendChild(tSvgImage);
+    let tSvgImageR = document.createElementNS(SVG_NS, "image");
+    tSvgImageR.setAttributeNS(XLINK_NS, 'xlink:href', '/pieces/ill20231212/notationSVGs/rightBracket.svg');
+    tSvgImageR.setAttributeNS(null, "y", loopObj.initY-13);
+    tSvgImageR.setAttributeNS(null, "x", loopObj.beatApxX +loopObj.lenPx-20);
+    tSvgImageR.setAttributeNS(null, "visibility", 'visible');
+    tSvgImageR.setAttributeNS(null, "display", 'yes');
+    canvas.svg.appendChild(tSvgImageR);
+  });
 }
 
 function updateLoops(frame, loopIx) {
@@ -406,6 +430,11 @@ function updateLoops(frame, loopIx) {
   loopCursors[loopIx].setAttributeNS(null, 'x2', tx);
   loopCursors[loopIx].setAttributeNS(null, 'y1', ty);
   loopCursors[loopIx].setAttributeNS(null, 'y2', ty + scrollingCsrH);
+  //bbs
+  let tbx = loops[loopIx].frameArray[frame].x;
+  let tby = loops[loopIx].frameArray[frame].bby;
+  loopBbs[loopIx].setAttributeNS(null, 'cx', tbx);
+  loopBbs[loopIx].setAttributeNS(null, 'cy', tby);
 }
 //#endef Loops
 

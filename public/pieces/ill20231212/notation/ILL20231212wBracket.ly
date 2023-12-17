@@ -33,11 +33,17 @@
 
   \score
   {
-    <<
+    \new StaffGroup <<
 
       \override Score.BarNumber.break-visibility = ##(#f #f #f) %The order of the three values is end of line visible, middle of line visible, beginning of line visible.
      
-      \new Staff \with 
+    % Must be lower than the actual number of staff lines
+    \override StaffGroup.SystemStartBracket.collapse-height = #4
+    \override Score.SystemStartBar.collapse-height = #4
+     
+     
+     
+     \new Staff \with 
       {
         \omit TimeSignature
         \omit BarLine
@@ -59,7 +65,7 @@
         % \override NoteColumn.accent-skip = ##t
         \override Accidental.font-size = -4 
         \override Stem.direction = #up
-        \stopStaff % Hides staff lines
+        %\stopStaff % Hides staff lines
         \set Score.tempoHideNote = ##t
         
         
